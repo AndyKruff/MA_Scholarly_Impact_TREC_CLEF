@@ -1,0 +1,21 @@
+# Ignore PDF Files
+
+PDF_data/
+
+citing_overview_paper_paper_pdfs_TREC/
+
+citing_overview_paper_paper_pdfs/
+
+
+
+# Ignore all .ipynb_checkpoints folder
+.ipynb_checkpoints/
+
+# Ignore all .idea folder
+.idea/
+
+# Ignore XML files
+resources/
+
+
+
