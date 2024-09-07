@@ -1,0 +1,74 @@
+CLEF 2000 — Overview of Results
+CLEF 2001 — Overview of Results
+The CLEF 2001 Interactive Track
+CLEF 2002 — Overview of Results
+The CLEF 2002 Interactive Track
+CLEF 2002 Cross-Language Spoken Document Retrieval Pilot Track Report
+CLEF 2003 – Overview of Results
+The CLEF 2003 Interactive Track
+The Multiple Language Question Answering Track at CLEF 2003
+The CLEF 2003 Cross Language Image Retrieval Track
+The CLEF 2003 Cross-Language Spoken Document Retrieval Track
+CLEF 2004: Ad Hoc Track Overview and Results Analysis
+The Domain-Specific Track in CLEF 2004: Overview of the Results and Remarks on the Assessment Process
+iCLEF 2004 Track Overview: Pilot Experiments in Interactive Cross-Language Question Answering
+Overview of the CLEF 2004 Multilingual Question Answering Track
+The CLEF 2004 Cross-Language Image Retrieval Track
+CLEF 2004 Cross-Language Spoken Document Retrieval Track
+CLEF 2005: Ad Hoc Track Overview
+Domain-Specific Track CLEF 2005: Overview of Results and Approaches, Remarks on the Assessment Analysis
+Overview of the CLEF 2005 Interactive Track
+Overview of the CLEF 2005 Multilingual Question Answering Track
+The CLEF 2005 Cross–Language Image Retrieval Track
+Overview of the CLEF-2005 Cross-Language Speech Retrieval Track
+Overview of WebCLEF 2005
+GeoCLEF: The CLEF 2005 Cross-Language Geographic Information Retrieval Track Overview
+CLEF 2007: Ad Hoc Track Overview
+The Domain-Specific Track at CLEF 2007
+Overview of the CLEF 2007 Multilingual Question Answering Track
+Overview of the Answer Validation Exercise 2007
+Overview of QAST 2007
+Overview of the ImageCLEFphoto 2007 Photographic Retrieval Task
+Overview of the ImageCLEF 2007 Object Retrieval Task
+Overview of the ImageCLEFmed 2007 Medical Retrieval and Medical Annotation Tasks
+Overview of the CLEF-2007 Cross-Language Speech Retrieval Track
+Overview of WebCLEF 2007
+GeoCLEF 2007: The CLEF 2007 Cross-Language Geographic Information Retrieval Track Overview
+Morpho Challenge Evaluation Using a Linguistic Gold Standard
+SemEval-2007 Task 01: Evaluating WSD on Cross-Language Information Retrieval
+CLEF 2008: Ad Hoc Track Overview
+The Domain-Specific Track at CLEF 2008
+Overview of iCLEF 2008: Search Log Analysis for Multilingual Image Retrieval
+Overview of the Clef 2008 Multilingual Question Answering Track
+Overview of the Answer Validation Exercise 2008
+Overview of QAST 2008
+Overview of the ImageCLEFphoto 2008 Photographic Retrieval Task
+Overview of the ImageCLEFmed 2008 Medical Image Retrieval Task
+Medical Image Annotation in ImageCLEF 2008
+Medical Image Annotation in ImageCLEF 2008
+The Visual Concept Detection Task in ImageCLEF 2008
+Overview of the WikipediaMM Task at ImageCLEF 2008
+Overview of WebCLEF 2008
+GeoCLEF 2008: The CLEF 2008 Cross-Language Geographic Information Retrieval Track Overview
+Overview of VideoCLEF 2008: Automatic Generation of Topic-Based Feeds for Dual Language Audio-Visual Content
+Overview of CLEF 2008 INFILE Pilot Track
+Overview of Morpho Challenge 2008
+CLEF 2009 Ad Hoc Track Overview: TEL and Persian Tasks
+CLEF 2009 Ad Hoc Track Overview: Robust-WSD Task
+Overview of ResPubliQA 2009: Question Answering Evaluation over European Legislation
+Overview of QAST 2009
+GikiCLEF: Expectations and Lessons Learned
+Information Filtering Evaluation: Overview of CLEF 2009 INFILE Track
+CLEF-IP 2009: Retrieval Experiments in the Intellectual Property Domain
+LogCLEF 2009: The CLEF 2009 Multilingual Logfile Analysis Track Overview
+CLEF 2009: Grid@CLEF Pilot Track Overview
+Overview and Results of Morpho Challenge 2009
+Overview of iCLEF 2009: Exploring Search Behaviour in a Multilingual Folksonomy Environment
+Diversity in Photo Retrieval: Overview of the ImageCLEFPhoto Task 2009
+Overview of the WikipediaMM Task at ImageCLEF 2009
+Overview of the CLEF 2009 Medical Image Retrieval Track
+Overview of the CLEF 2009 Medical Image Annotation Track
+Overview of the CLEF 2009 Large-Scale Visual Concept Detection and Annotation Task
+Overview of the CLEF 2009 Robot Vision Track
+Overview of VideoCLEF 2009: New Perspectives on Speech-Based Multimedia Content Enrichment
+

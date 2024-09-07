@@ -1,0 +1,53 @@
+Overview of the Ninth Text REtrieval Conference (TREC-9).
+TREC-9 Cross-Language Information Retrieval (English-Chinese) Overview.
+The TREC-9 Filtering Track Final Report.
+The TREC-9 Interactive Track Report.
+Overview of the TREC-9 Question Answering Track.
+The TREC-9 Query Track.
+Overview of the TREC-9 Web Track.
+Overview of TREC 2001.
+The TREC-2001 Cross-Language Information Retrieval Track: Searching Arabic Using English, French or Arabic Queries.
+The TREC 2001 Filtering Track Report.
+The TREC 2001 Interactive Track Report.
+Overview of the TREC 2001 Question Answering Track.
+The TREC-2001 Video Track Report.
+Overview of the TREC-2001 Web Track
+Overview of TREC 2002.
+The TREC 2002 Arabic/English CLIR Track.
+The TREC 2002 Filtering Track Report.
+TREC 2002 Interactive Track Report.
+Overview of the TREC 2002 Novelty Track.
+Overview of the TREC 2002 Question Answering Track.
+The TREC-2002 Video Track Report.
+Overview of the TREC-2002 Web Track.
+Overview of TREC 2003.
+TREC GENOMICS Track Overview.
+HARD Track Overview in TREC 2003: High Accuracy Retrieval from Documents.
+Overview of the TREC 2003 Novelty Track.
+Overview of the TREC 2003 Question Answering Track.
+Overview of the TREC 2003 Robust Retrieval Track.
+Overview of the TREC 2003 Web Track.
+Overview of TREC 2004.
+TREC 2004 Genomics Track Overview.
+HARD Track Overview in TREC 2004 - High Accuracy Retrieval from Documents.
+Overview of the TREC 2004 Novelty Track.
+Overview of the TREC 2004 Question Answering Track.
+Overview of the TREC 2004 Robust Track.
+Overview of the TREC 2004 Terabyte Track.
+Overview of the TREC 2004 Web Track.
+Overview of TREC 2005.
+Overview of the TREC 2005 Enterprise Track.
+TREC 2005 Genomics Track Overview.
+HARD Track Overview in TREC 2005 High Accuracy Retrieval from Documents.
+Overview of the TREC 2005 Question Answering Track.
+Overview of the TREC 2005 Robust Retrieval Track.
+TREC 2005 Spam Track Overview.
+The TREC 2005 Terabyte Track.
+Overview of the TREC 2006.
+Overview of the TREC 2006 Blog Track.
+Overview of the TREC 2006 Enterprise Track.
+TREC 2006 Genomics Track Overview.
+TREC 2006 Legal Track Overview.
+Overview of the TREC 2006 Question Answering Track 99.
+TREC 2006 Spam Track Overview.
+The TREC 2006 Terabyte Track.

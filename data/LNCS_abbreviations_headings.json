@@ -1,0 +1,170 @@
+{
+    "GeoCLEF": [
+        "Part VIII. Cross-Language Geographical Retrieval (GeoCLEF)",
+        "Part VII: Cross-Language Geographical Retrieval (GeoCLEF)",
+        "Part VIII: Cross-Language Geographical Retrieval (GeoCLEF)"
+    ],
+    "iCLEF": [
+        "Interactive Track",
+        "Part III. Interactive Cross-Language Retrieval",
+        "Part III: Interactive Cross-Langauge Information Retrieval (i-CLEF)",
+        "Part III. Interactive Cross-Language Information Retrieval",
+        "Part III: Interactive Cross-Language Retrieval (iCLEF)",
+        "I: Interactive Cross-Language Retrieval (iCLEF)",
+        "Part III. Interactive Cross-Language Information Retrieval (iCLEF)"
+    ],
+    "Panels": [
+        "Panels"
+    ],
+    "Alternative Search Tasks": [
+        "Alternative Search Tasks"
+    ],
+    "CL-SDR": [
+        "Part VI. Cross-Language Spoken Document Retrieval"
+    ],
+    "Evaluation": [
+        "Evaluation for CLIR Systems",
+        "Evaluation Methodologies and Metrics (1)",
+        "Evaluation and Visualization",
+        "Cross Language Information Retrieval and Evaluation",
+        "Visual and Context",
+        "System Evaluation Experiments at CLEF 2002",
+        "System Evaluation Experiments at CLEF 2001",
+        "History",
+        "Evaluation",
+        "Methodologies and Lessons",
+        "Evaluation Methodologies and Metrics (2)",
+        "Evaluation Methodologies and Infrastructure",
+        "Cross-Language Systems Evaluation Initiatives, Issues and Results",
+        "Benchmarking and Evaluation Initiatives",
+        "Part VII. Issues in CLIR and in Evaluation",
+        "Evaluation Issues",
+        "Evaluation Issues and Results"
+    ],
+    "Adhoc": [
+        "Part I. Ad Hoc Text Retrieval Tracks",
+        "Part I. Ad-hoc Text Retrieval Tracks",
+        "I: Multilingual Textual Document Retrieval (AdHoc)",
+        "Part I. Multilingual Textual Document Retrival (Ad Hoc)",
+        "Part I: Multilingual Textual Document Retrieval (Ad Hoc)",
+        "Persian@CLEF",
+        "Ad Hoc Mixed: TEL and Persian",
+        "Cross-Language and More",
+        "Monolingual Experiments",
+        "Robust-WSD",
+        "TEL@CLEF",
+        "The CLEF-2000 Experiments"
+    ],
+    "INFILE": [
+        "III: Multilingual Information Filtering (INFILE)",
+        "Part IX: Multilingual Information Filtering (INFILE@CLEF)"
+    ],
+    "Keynotes": [
+        "Keynote Addresses"
+    ],
+    "ImageCLEF": [
+        "II: Cross-Language Retrieval in Image Collections (ImageCLEF)",
+        "ImageCLEFwiki",
+        "Part IV: Cross-Language Retrieval in Image Collections (ImageCLEF)",
+        "Part V. Cross-Language Retrieval In Image Collections (ImageCLEF)",
+        "ImageCLEFmed",
+        "Part V: Cross-Language Retrieval in Image Collections (ImageCLEF)",
+        "ImageCLEF Annotation and Robot Vision",
+        "ImageCLEFWiki",
+        "Part V. Cross-Language Retrieval in Image Collections",
+        "ImageCLEFmed Annotation",
+        "ImageCLEFPhoto",
+        "Part V. Cross-Language Image Retrieval",
+        "ImageCLEF Mixed",
+        "ImageCLEFphoto"
+    ],
+    "QA@CLEF": [
+        "Question Answering on Script Transcription (QAST)",
+        "II: Multiple Language Question Answering (QA@CLEF)",
+        "Part IV. Multiple Language Question Answering (QA@CLEF)",
+        "Answer Validation Exercise (AVE)",
+        "Mono and Bilingual QA",
+        "Part IV: Multiple Language Question Answering (QA@CLEF)",
+        "Part III: Multiple Language Question Answering (QA@CLEF)",
+        "Part IV. Multiple Language Question Answering",
+        "Part IV. Cross-Language Question Answering"
+    ],
+    "Domain Specific": [
+        "Part II. Domain-Specific Document Retrieval",
+        "Part II: Mono- and Cross-Language Scientific Data Retrieval (Domain-Specific)",
+        "Part II: Domain-Specific Information Retrieval (Domain-Specific)",
+        "Part II. Domain-Specific Information Retrieval (Domain-Specific)"
+    ],
+    "Best of Labs": [
+        "Best of CLEF 2018 Labs",
+        "Best of CLEF 2015 Labs",
+        "Best of CLEF 2019 Labs",
+        "Best of 2021 Labs",
+        "Best of CLEF 2017 Labs",
+        "Best of 2020 Labs",
+        "Best of the Labs"
+    ],
+    "WebCLEF": [
+        "Part VII. Multilingual Web Track (WebCLEF)",
+        "Part VI: Multilingual Web Retrieval (WebCLEF)",
+        "Part VI: Multilingual Web Track (WebCLEF)",
+        "Part VII: Multilingual Web Track (WebCLEF)"
+    ],
+    "VideoCLEF": [
+        "Part VIII: Cross-Language Video Retrieval (VideoCLEF)",
+        "III: Cross-Language Retrieval in Video Collections (VideoCLEF)",
+        ""
+    ],
+    "CL-SR": [
+        "Part VI. Cross-Language Speech Retrieval (CL-SR)",
+        "Part VI: Cross-Language Speech Retrieval (CLSR)",
+        "Part V: Cross-Language Speech Retrieval (CL-SR)"
+    ],
+    "Overview": [
+        "Overviews  of 2022 Labs",
+        "CLEF Lab Overviews",
+        "CLEF 2016 Labs Overviews",
+        "Labs Overviews",
+        "CLEF 2020 Lab Overviews",
+        "CLEF 2018 Lab Overviews",
+        "CLEF 2019 Lab Overviews",
+        "Lab Overviews",
+        "Overviews 2021 Labs"
+    ],
+    "Others": [
+        "Domain-Specific Approaches",
+        "Applications",
+        "Posters",
+        "Experimental Collections and Datasets (2)",
+        "Classification, Profiling and Suggestion",
+        "Resources, Tools, and Methods",
+        "Web and Social Media",
+        "Multilinguality and Less-Resourced Languages",
+        "Experimental IR",
+        "Information Access",
+        "Experimental Collections and Datasets (1)",
+        "Language and Processing"
+    ],
+    "Morpho": [
+        "Part X: Morpho Challenge at CLEF 2008",
+        "VII: Morphochallenge",
+        "Part VIII: CLEF in Other Evaluations"
+    ],
+    "Full-paper": [
+        "Full Papers",
+        "Long Papers with Short Presentation"
+    ],
+    "Short Paper": [
+        "Short Papers",
+        "Short Papers and Posters"
+    ],
+    "GRID@CLEF": [
+        "VI: Grid Experiments (GRID@CLEF)"
+    ],
+    "CLEF-IP": [
+        "IV: Intellectual Property (CLEF-IP)"
+    ],
+    "LogCLEF": [
+        "V: Logfile Analysis (LogCLEF)"
+    ]
+}

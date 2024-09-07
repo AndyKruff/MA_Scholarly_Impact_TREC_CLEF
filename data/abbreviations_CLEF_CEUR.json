@@ -1,0 +1,207 @@
+{
+    "Issues": [
+        "Issues in CLIR and in Evaluation"
+    ],
+    "CLIR": [
+        "Mono-, Bi- and Multilingual Information Retrieval"
+    ],
+    "DS": [
+        "Domain-Specific Information Retrieval"
+    ],
+    "GeoCLEF": [
+        "Cross-Language Geographical Information Retrieval"
+    ],
+    "CL-SDR": [
+        "Cross-Language Spoken Document Retrieval"
+    ],
+    "Adhoc IR Track": [
+        "Multilingual Document Retrieval"
+    ],
+    "CL-SR": [
+        "Cross-Language Speech Retrieval"
+    ],
+    "JokeR": [
+        "JokeR: Automatic Wordplay and Humour Translation"
+    ],
+    "RepLab": [
+        "Evaluation of Online Reputation Management Systems"
+    ],
+    "Touché": [
+        "Touché: Argument Retrieval"
+    ],
+    "LogCLEF": [
+        "Log File Analysis"
+    ],
+    "mSpRL": [
+        "Multimodal Spatial Role Labeling Workshop "
+    ],
+    "SemEval": [
+        "SemEval"
+    ],
+    "ProtestNews": [
+        "ProtestNews - Extracting Protests from News"
+    ],
+    "iDPP": [
+        "iDPP: Intelligent Disease Progression Prediction"
+    ],
+    "CHiC": [
+        "Cultural Heritage in CLEF"
+    ],
+    "ARQMath": [
+        "ARQMath: Answer Retrieval for Questions on Math"
+    ],
+    "WebCLEF": [
+        "Multilingual Web Track"
+    ],
+    "WEPS": [
+        "Web People Search"
+    ],
+    "CriES": [
+        "Cross-lingual Expert Search Workshop"
+    ],
+    "CLEF-ER": [
+        "Entity Recognition @ CLEF"
+    ],
+    "Grid@CLEF": [
+        "Grid Experiments"
+    ],
+    "HIPE": [
+        "HIPE: Named Entity Recognition and Linking in Multilingual Historical Documents",
+        "HIPE: Identifying Historical People, Places and other Entities"
+    ],
+    "MusiCLEF": [
+        "Music Information Retrieval"
+    ],
+    "CLEF-IP": [
+        "Retrieval in the Intellectual Property Domain"
+    ],
+    "SBS": [
+        "Social Book Search (SBS)"
+    ],
+    "VideoCLEF": [
+        "Cross-Language Video Retrieval"
+    ],
+    "LL4IR/NewsREEL": [
+        "LL4IR & NewsREEL: New Ideas"
+    ],
+    "DynSE": [
+        "Dynamic Search for Complex Tasks "
+    ],
+    "Morpho": [
+        "MorphoChallenge"
+    ],
+    "LeQua": [
+        "LeQua: Learning to Quantify"
+    ],
+    "MC2": [
+        "Cultural Microblog Contextualization (CMC)",
+        "CLEF Microblog Cultural Contextualization",
+        "MC2 - Multilingual Cultural Mining and Retrieval"
+    ],
+    "Domain Specific": [
+        "Mono- and Cross-Language IR on Structured Scientific Data",
+        "Mono- and Cross-Language IR for Scientific Collections",
+        "Domain-Specific Information Retrieval"
+    ],
+    "LifeCLEF": [
+        "LifeCLEF: Biodiversity identification and prediction Challenges",
+        "LifeCLEF - Biodiversity Identification and Prediction ",
+        "LifeCLEF: Multimedia Retrieval in Nature",
+        "LifeCLEF",
+        "LifeCLEF: Multimedia Life Species Identification"
+    ],
+    "PAN": [
+        "Digital Text Forensics (PAN)",
+        "PAN Lab on Digital Text Forensics",
+        "PAN Lab on Digital Text Forensics and Stylometry",
+        "Uncovering Plagiarism, Authorship and Social Software Misuse",
+        "PAN: Lab on Digital Text Forensics and Stylometry",
+        "Uncovering plagiarism, authorship and social software misuse",
+        "PAN: Stylometry and Digital Text Forensics",
+        "Uncovering Plagiarism, Authorship and Social Software Misuse (PAN)"
+    ],
+    "ImageCLEF": [
+        "ImageCLEF: Multimedia Retrieval Challenge",
+        "ImageCLEF: Multimedia Retrieval in Medicine, Lifelogging, and Internet",
+        "Cross-Language Retrieval in Image Collections",
+        "ImageCLEF: Multimedia Retrieval Challenge in CLEF",
+        "ImageCLEF",
+        "ImageCLEF - Multimedia Retrieval in CLEF",
+        "ImageCLEF "
+    ],
+    "CheckThat!": [
+        "CheckThat! - Automatic Identification and Verification of Claims",
+        "CheckThat!: Enabling Automatic Identification and Verification of Claims in Social Media",
+        "CheckThat! Lab on Fighting the COVID-19 Infodemic and Fake News Detection",
+        "CheckThat!: Lab on Detecting Check-Worthy Claims, Previously Fact-Checked Claims, and Fake News",
+        "Checkthat - Automatic Identification and Verification of Political Claims"
+    ],
+    "BioASQ": [
+        "BioASQ: Large-scale biomedical semantic indexing and question answering",
+        "BioASQ: Large-scale Biomedical Semantic Indexing and Question Answering",
+        "BioASQ: Large-scale Biomedical Semantic Indexing and Question Answering"
+    ],
+    "eHealth": [
+        "CLEF eHealth",
+        "Cross-Language Evaluation for eHealth Document Analysis",
+        "CLEF eHealth Evaluation Lab",
+        "eHealth: Retrieving and Making Sense of Medical Content",
+        "eHealth: CLEFeHealth",
+        "CLEFeHealth"
+    ],
+    "Question Answering": [
+        "Question Answering for Machine Reading Evaluation",
+        "Question Answering Track",
+        "Question answering (QA)",
+        "Multiple Language Question Answering 2010",
+        "Multiple Language Question Answering",
+        "Question Answering over Linked Data"
+    ],
+    "eRisk": [
+        "eRisk: Early risk prediction on the Internet",
+        "eRisk - Early Risk Prediction on the Internet ",
+        "eRisk: Early Risk Prediction on the Internet",
+        "Early risk prediction on the Internet ",
+        "Early Risk Prediction on the Internet"
+    ],
+    "PIR-CLEF": [
+        "PIR-CLEF - Evaluation of Personalised Information Retrieval ",
+        "PIR-CLEF"
+    ],
+    "CENTRE@CLEF": [
+        "CENTRE@CLEF - CLEF/NTCIR/TREC Reproducibility",
+        "CENTRE@CLEF"
+    ],
+    "SimpleText": [
+        "SimpleText: (Re)Telling right scientific stories to non-specialists via text simplification",
+        "SimpleText: Automatic Simplification of Scientific Texts"
+    ],
+    "ChEMU": [
+        "ChEMU: Cheminformatics Elsevier Melbourne University lab",
+        "ChEMU: Named Entity Recognition and Event Extraction of Chemical Reactions from Patents"
+    ],
+    "INFILE": [
+        "Multilingual Information Filtering"
+    ],
+    "LiLAS": [
+        "LiLAS: Living Labs for Academic Search"
+    ],
+    "INEX": [
+        "INitiative for the Evaluation of XML retrieval"
+    ],
+    "iCLEF": [
+        "Interactive Cross-Language Information Retrieval"
+    ],
+    "Miscellanea": [
+        "Miscellanea"
+    ],
+    "NewsREEL": [
+        "LL4IR & NewsREEL: New Ideas",
+        "CLEF NewsREEL",
+        "News Recommendation Evaluation Lab",
+        "News Recommendation Evaluation Lab (NEWSREEL)"
+    ],
+    "LL4IR": [
+        "Living Labs for IR (LL4IR)"
+    ]
+}

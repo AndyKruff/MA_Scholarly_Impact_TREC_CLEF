@@ -1,0 +1,335 @@
+The CLEF 2001 Interactive Track
+The CLEF 2002 Interactive Track
+The CLEF 2003 Cross Language Image Retrieval Task
+The CLEF 2003 Cross-Language Spoken Document Retrieval Track
+The CLEF 2003 Interactive Track
+The Multiple Language Question Answering Track at CLEF 2003
+The CLEF Cross Language Image Retrieval Track (ImageCLEF) 2004
+CLEF 2004 Cross-Language Spoken Document Retrieval Track
+iCLEF 2004 Track Overview: Interactive Cross-Language Question Answering
+Overview of the CLEF 2004 Multilingual Question Answering Track
+GeoCLEF: the CLEF 2005 Cross-Language Geographic Information Retrieval Track
+The CLEF 2005 Cross-Language Image Retrieval Track
+Overview of the CLEF-2005 Cross-Language Speech Retrieval Track
+Domain-Specific Track CLEF 2005: Overview of Results and Approaches, Remarks on the Assessment Anaalysis
+Overview of the CLEF 2005 Interactive Track
+CLEF 2005: Ad Hoc Track Overview
+Overview of WebCLEF 2005
+Overview of the CLEF 2005 Multilingual Question Answering Track
+GeoCLEF 2006: the CLEF 2006 Cross-Language Geographic Information Retrieval Track Overview
+Overview of the ImageCLEF 2006 Photographic Retrieval and Object Annotation Tasks
+Overview of the CLEF-2006 Cross-Language Speech Retrieval Track
+iCLEF 2006 Overview: Searching the Flickr WWW Photo-Sharing Repository
+Domain-Specific Track CLEF 2006: Overview of Results and Approaches, Remarks on the Assessment Analysis
+CLEF 2006: Ad Hoc Track Overview
+Overview of WebCLEF 2006
+Overview of the CLEF 2006 Multilingual Question Answering Track
+Overview of the Answer Validation Exercise 2006
+Overview of WiQA 2006
+GeoCLEF 2007: the CLEF 2007 Cross-Language Geographic Information Retrieval Track Overview
+Query Parsing Task for GeoCLEF2007 Report
+Overview of the ImageCLEFphoto 2007 Photographic Retrieval Task
+Overview of the ImageCLEF 2007 Object Retrieval Task
+Overview of the ImageCLEF 2007 Medical Retrieval and Annotation Tasks
+Overview of the CLEF-2007 Cross Language Speech Retrieval Track
+The Domain -Specific Track at CLEF 2007
+CLEF 2007: Ad Hoc Track Overview
+Overview of Morpho Challenge in CLEF 2007
+Overview of WebCLEF 2007
+Overview of the CLEF 2007 Multilingual Question Answering Track
+Overview of the Answer Validation Exercise 2007
+Overview of QAST 2007
+SemEval-2007 Task 01: Evaluating WSD on Cross-Language Information Retrieval
+GeoCLEF 2008: the CLEF 2008 Cross-Language Geographic Information Retrieval Track Overview
+Overview of the ImageCLEFphoto 2008 Photographic Retrieval Task
+Overview of the ImageCLEFmed 2008 Medical Image Retrieval Task
+Overview of VideoCLEF 2008: Automatic Generation of Topic-based Feeds for Dual Language Audio-Visual Content
+Overview of iCLEF 2008: Search Log Analysis for Multilingual Image Retrieval
+The Domain-Specific Track at CLEF 2008
+CLEF 2008: Ad Hoc Track Overview
+Unsupervised Morpheme Analysis Evaluation by a Comparison to a Linguistic Gold Standard - Morpho Challenge 2008
+Unsupervised Morpheme Analysis Evaluation by IR experiments - Morpho Challenge 2008
+Overview of CLEF 2008 INFILE Pilot Track
+Overview of WebCLEF 2008 (Draft)
+Overview of the CLEF 2008 Multilingual Question Answering Track
+Overview of the Answer Validation Exercise 2008
+Overview of QAST 2008
+Diversity in Photo Retrieval: Overview of the ImageCLEFPhoto Task 2009
+Overview of the CLEF 2009 Large Scale - Visual Concept Detection and Annotation Task
+Overview of the WikipediaMM Task at ImageCLEF 2009
+Overview of the CLEF 2009 Medical Image Retrieval Track
+Overview of the CLEF 2009 Medical Image Annotation Track
+Overview of the CLEF 2009 Robot Vision Track
+Overview of VideoCLEF 2009: New Perspectives on Speech-based Multimedia Content Enrichment
+Grid@CLEF 2009 Track Overview
+Overview of iCLEF 2009: Exploring Search Behaviour in a Multilingual Folksonomy Environment
+LogCLEF 2009: the CLEF 2009 Multilingual Logfile Analysis Track Overview
+CLEF 2009 Ad Hoc Track Overview: TEL and Persian Tasks
+CLEF 2009 Ad Hoc Track Overview: Robust - WSD Task
+Overview and Results of Morpho Challenge 2009
+Overview of CLEF 2009 INFILE track
+Overview of ResPubliQA 2009: Question Answering Evaluation over European Legislation
+Overview of QAST 2009
+CLEF-IP 2009: Retrieval Experiments in the Intellectual Property Domain
+Overview of the Wikipedia Retrieval Task at ImageCLEF 2010
+Overview of the CLEF 2010 Medical Image Retrieval Track
+The Robot Vision Track at ImageCLEF 2010
+New Strategies for Image Annotation: Overview of the Photo Annotation Task at ImageCLEF 2010
+Overview of the Cross-lingual Expert Search (CriES) Pilot Challenge
+LogCLEF 2010: the CLEF 2010 Multilingual Logfile Analysis Track Overview
+Overview of ResPubliQA 2010: Question Answering Evaluation over European Legislation
+CLEF-IP 2010: Retrieval Experiments in the Intellectual Property Domain.
+Overview of the 2nd International Competition on Plagiarism Detection
+Overview of the 1st International Competition on Wikipedia Vandalism Detection
+WePS-3 Evaluation Campaign: Overview of the Web People Search Clustering and Attribute Extraction Tasks
+WePS3 Evaluation Campaign: Overview of the On-line Reputation Management Task
+Overview of the Wikipedia Image Retrieval Task at ImageCLEF 2011
+Overview of the CLEF 2011 Medical Image Classification and Retrieval Tasks
+The CLEF 2011 Photo Annotation and Concept-based Retrieval Tasks
+The CLEF 2011 Photo Annotation and Concept-based Retrieval Tasks
+The CLEF 2011 Plant Images Classification Task
+CHiC 2011 - Cultural Heritage in CLEF: From Use Cases to Evaluation in Practice for Multilingual Information Access to Cultural Heritage
+LogCLEF 2011 Multilingual Log File Analysis: Language Identification, Query Classification, and Success of a Query
+Overview of MusiCLEF 2011
+Overview of QA4MRE at CLEF 2011: Question Answering for Machine Reading Evaluation
+Overview of the QA4MRE Pilot Task: Annotating Modality and Negation for a Machine Reading Evaluation
+CLEF-IP 2011: Retrieval in the Intellectual Property Domain
+Overview of the 3rd International Competition on Plagiarism Detection
+Overview of the International Authorship Identification Competition at PAN-2011
+Overview of the 2nd International Competition on Wikipedia Vandalism Detection
+CLEFeHealth2012 The CLEF 2012 Workshop on Cross-Language Evaluation of Methods, Applications, and Resources for eHealth Document Analysis
+Overview of the ImageCLEF 2012 Scalable Web Image Annotation Task
+Overview of the Personal Photo Retrieval Pilot Task at ImageCLEF 2012
+Overview of the ImageCLEF 2012 Flickr Photo Annotation and Retrieval Task
+Overview of the ImageCLEF 2012 Flickr Photo Annotation and Retrieval Task
+The ImageCLEF 2012 Plant Identification Task
+Overview of the ImageCLEF 2012 Robot Vision Task
+Overview of the ImageCLEF 2012 Medical Image Retrieval and Classification Tasks
+Cultural Heritage in CLEF (CHiC) Overview 2012
+Overview of RepLab 2012: Evaluating Online Reputation Management Systems
+Overview of the INEX 2012 Linked Data Track
+Overview of the INEX 2012 Relevance Feedback Track
+Overview of the INEX 2012 Snippet Retrieval Track
+Overview of the INEX 2012 Social Book Search Track
+Overview of the INEX 2012 Tweet Contextualization Track
+Machine Reading of Biomedical Texts about Alzheimer's Disease
+Overview of QA4MRE at CLEF 2012: Question Answering for Machine Reading Evaluation
+Annotating Modality and Negation for a Machine Reading Evaluation
+CLEF-IP 2012: Retrieval Experiments in the Intellectual Property Domain
+Overview of the 4th International Competition on Plagiarism Detection
+Overview of the International Sexual Predator Identification Competition at PAN-2012
+Overview of the International Sexual Predator Identification Competition at PAN-2012
+An Overview of the Traditional Authorship Attribution Subtask
+Task 1: ShARe/CLEF eHealth Evaluation Lab 2013
+Task 2: ShARe/CLEF eHealth Evaluation Lab 2013
+Overview of the ImageCLEF 2013 Scalable Concept Image Annotation Subtask
+Overview of the ImageCLEF 2013 Personal Photo Retrieval Subtask
+Overview of the ImageCLEF 2013 Robot Vision Task
+Overview of the ImageCLEF 2013 Medical Tasks
+Cultural Heritage in CLEF (CHiC) 2013 - Multilingual Task Overview
+Overview of the INEX 2013 Linked Data Track
+Overview of the INEX 2013 Snippet Retrieval Track
+Overview of INEX Tweet Contextualization 2013 Track
+Overview of QA4MRE 2013 Entrance Exams Task
+QALD-3: Multilingual Question Answering over Linked Data
+Passage Retrieval Starting from Patent Claims A Clef-Ip 2013 Task Overview
+Overview of the Author Identification Task at PAN 2013
+Overview of the Author Profiling Task at PAN 2013
+Overview of the 5th International Competition on Plagiarism Detection
+Task 1 of the CLEF eHealth Evaluation Lab 2014
+Task 2: ShARe/CLEF eHealth Evaluation Lab 2014
+ShARe/CLEF eHealth Evaluation Lab 2014, Task 3: User-centred Health Information Retrieval
+Overview of the ImageCLEF 2014 Robot Vision Task
+Overview of the ImageCLEF 2014 Scalable Concept Image Annotation Task
+Overview of the ImageCLEF 2014 Domain Adaptation Task
+ImageCLEF Liver CT Image Annotation Task 2014
+Overview of the INEX 2014 Social Book Search Track
+Overview of the INEX 2014 Interactive Social Book Search Track
+Overview of INEX Tweet Contextualization 2014 track
+LifeCLEF Bird Identication Task 2014
+LifeCLEF Plant Identification Task 2014
+Overview of the LifeCLEF 2014 Fish Task
+NEWSREEL 2014: Summary of the News Recommendation Evaluation Lab
+Overview of the 6th International Competition on Plagiarism Detection
+Overview of the Author Identification Task at PAN 2014
+Overview of the Author Profiling Task at PAN 2014
+Question Answering over Linked Data (QALD-4)
+Results of the BioASQ Track of the Question Answering Lab at CLEF 2014
+Overview of CLEF QA Entrance Exams Task 2014
+Overview of RepLab 2014: Author Profiling and Reputation Dimensions for Online Reputation Management
+CLEF eHealth Evaluation Lab 2015 Task 1b: Clinical Named Entity Recognition
+CLEF eHealth Evaluation Lab 2015, Task 2: Retrieving Information About Medical Symptoms
+Task 1a of the CLEF eHealth Evaluation Lab 2015: Clinical Speech Recognition
+Overview of the ImageCLEF 2015 Medical Classification Task
+Overview of the ImageCLEF 2015 Medical Clustering Task
+Overview of the ImageCLEF 2015 Scalable Image Annotation, Localization and Sentence Generation task
+Overview of the ImageCLEF 2015 liver CT annotation task
+LifeCLEF Bird Identification Task 2015
+LifeCLEF Plant Identification Task 2015
+Extended Overview of the Living Labs for Information Retrieval Evaluation (LL4IR) CLEF Lab 2015
+Overview of CLEF NewsREEL 2015: News Recommendation Evaluation Lab
+Towards Data Submissions for Shared Tasks: First Experiences for the Task of Text Alignment
+Overview of the 3rd Author Profiling Task at PAN 2015
+Overview of the Author Identification Task at PAN 2015
+Results of the BioASQ Tasks of the Question Answering Lab at CLEF 2015
+Overview of CLEF QA Entrance Exams Task 2015
+Question Answering over Linked Data (QALD-5)
+Overview of the SBS 2015 Interactive Track
+Overview of the SBS 2015 Suggestion Track
+Task 1 of the CLEF eHealth Evaluation Lab 2016: Handover Information Extraction
+The IR Task at the CLEF eHealth Evaluation Lab 2016: User-centred Health Information Retrieval
+Clinical Information Extraction at the CLEF eHealth Evaluation lab 2016
+Overview of the ImageCLEF 2016 Medical Task
+Overview of the ImageCLEF 2016 Handwritten Scanned Document Retrieval Task
+Overview of the ImageCLEF 2016 Scalable Concept Image Annotation Task
+Plant Identification in an Open-world (LifeCLEF 2016)
+LifeCLEF Bird Identification Task 2016: The arrival of Deep learning
+CLEF NewsREEL 2016: Comparing Multi-dimensional Offline and Online Evaluation of News Recommender Systems
+Clustering by Authorship Within and Across Documents
+Author Obfuscation: Attacking the State of the Art in Authorship Verification
+Overview of the 4th Author Profiling Task at PAN 2016: Cross-Genre Evaluations
+Overview of the SBS 2016 Interactive Track
+Overview of the SBS 2016 Suggestion Track
+Overview of the SBS 2016 Mining Track
+Cultural micro-blog Contextualization 2016 Workshop Overview: data and pilot tasks
+CLEF 2017 NewsREEL Overview: Offline and Online Evaluation of Stream-based News Recommender Systems
+LifeCLEF Bird Identification Task 2017
+Plant Identification Based on Noisy Web Data: the Amazing Performance of Deep Learning (LifeCLEF 2017)
+Overview of the Author Obfuscation Task at PAN 2017: Safety Evaluation Revisited
+Overview of the 5th Author Profiling Task at PAN 2017: Gender and Language Variety Identification in Twitter
+Overview of the Author Identification Task at PAN-2017: Style Breach Detection and Author Clustering
+CLEF eHealth 2017 Multilingual Information Extraction task Overview: ICD10 Coding of Death Certificates in English and French
+CLEF 2017 Technologically Assisted Reviews in Empirical Medicine Overview
+CLEF 2017 Task Overview: The IR Task at the eHealth Evaluation Lab - Evaluating Retrieval Methods for Consumer Health Search
+CLEF 2017 Microblog Cultural Contextualization Content Analysis task Overview
+CLEF 2017 MC2 Search and Time Line tasks Overview
+Overview of ImageCLEF 2017 Population Estimation (Remote) task
+Overview of ImageCLEFlifelog 2017: Lifelog Retrieval and Summarization
+Overview of the ImageCLEF 2017 Tuberculosis Task - Predicting Tuberculosis Type and Drug Resistances
+Overview of ImageCLEFcaption 2017 – Image Caption Prediction and Concept Detection for Biomedical Images
+Evaluation of Personalised Information Retrieval at CLEF 2017 (PIR-CLEF): Towards a Reproducible Evaluation Framework for PIR
+CLEF 2017 eRisk Overview: Early Risk Prediction on the Internet: Experimental Foundations
+CLEF 2017 Dynamic Search Lab Overview And Evaluation
+CLEF 2017: Multimodal Spatial Role Labeling Task Working Notes
+CENTRE@CLEF2018: Overview of the Replicability Task
+Overview of GeoLifeCLEF 2018: Location-based Species Recommendation
+Overview of BirdCLEF 2018: Monospecies vs. Sundscape Bird Identification
+Overview of ExpertLifeCLEF 2018: how far Automated Identification Systems are from the Best Experts?
+Overview of the Author Obfuscation Task at PAN 2018: A New Approach to Measuring Safety
+Overview of the 6th Author Profiling Task at PAN 2018: Multimodal Gender Identification in Twitter
+Overview of the Author Identification Task at PAN-2018: Cross-domain Authorship Attribution and Style Change Detection
+CLEF eHealth 2018 Multilingual Information Extraction Task Overview: ICD10 Coding of Death Certificates in French, Hungarian and Italian
+CLEF 2018 Technologically Assisted Reviews in Empirical Medicine Overview
+Overview of the CLEF 2018 Consumer Health Search Task
+CLEF MC2 2018 Lab Technical Overview of Cross Language Microblog Search and Argumentative Mining
+Overview of ImageCLEFlifelog 2018: Daily Living Understanding and Lifelog Moment Retrieval
+Overview of the ImageCLEF 2018 Caption Prediction Tasks
+Overview of ImageCLEFtuberculosis 2018 - Detecting Multi-Drug Resistance, Classifying Tuberculosis Types and Assessing Severity Scores
+Overview of ImageCLEF 2018 Medical Domain Visual Question Answering Task
+Overview of the CLEF 2018 Personalised Information Retrieval Lab (PIR-CLEF 2018)
+Overview of eRisk: Early Risk Prediction on the Internet (Extended Lab Overview)
+Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims. Task 1: Check-Worthiness
+Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims. Task 2: Factuality
+CENTRE@CLEF2019: Overview of the Replicability and Reproducibility Tasks
+Overview of the CLEF-2019 CheckThat! Lab: Automatic Identification and Verification of Claims. Task 1: Check-Worthiness
+Overview of the CLEF-2019 CheckThat! Lab: Automatic Identification and Verification of Claims. Task 2: Evidence and Factuality
+CLEF 2019 Technology Assisted Reviews in Empirical Medicine Overview
+Overview of the CLEF eHealth 2019 Multilingual Information Extraction
+Overview of eRisk at CLEF 2019: Early Risk Prediction on the Internet (extended overview)
+Overview of LifeCLEF Plant Identification Task 2019: diving into Data Deficient Tropical Countries
+Overview of BirdCLEF 2019: Large-Scale Bird Recognition in Soundscapes
+Overview of GeoLifeCLEF 2019: Plant Species Prediction using Environment and Animal Occurrences
+Overview of ImageCLEFtuberculosis 2019 - Automatic CT-based Report Generation and Tuberculosis Severity Assessment
+Overview of ImageCLEFcoral 2019 Task
+Overview of ImageCLEFlifelog 2019: Solve My Life Puzzle and Lifelog Moment Retrieval
+Overview of the ImageCLEFmed 2019 Concept Detection Task
+Overview of the ImageCLEFsecurity 2019: File Forgery Detection Tasks
+Overview of the Celebrity Profiling Task at PAN 2019
+Overview of the Style Change Detection Task at PAN 2019
+Overview of the 7th Author Profiling Task at PAN 2019: Bots and Gender Profiling in Twitter
+Overview of the Cross-domain Authorship Attribution Task at PAN 2019
+Overview of CLEF 2019 Lab ProtestNews: Extracting Protests from News in a Cross-context setting
+Overview of ARQMath 2020 (Updated Working Notes Version): CLEF Lab on Answer Retrieval for Questions on Math
+Overview of BioASQ 8a and 8b: Results of the Eighth Edition of the BioASQ Tasks a and b
+Overview of MESINESP, a Spanish Medical Semantic Indexing Task within BioASQ 2020
+Overview of CheckThat! 2020 Arabic: Automatic Identification and Verification of Claims in Social Media
+Overview of CheckThat! 2020 English: Automatic Identification and Verification of Claims in Social Media
+An Extended Overview of the CLEF 2020 ChEMU Lab: Information Extraction of Chemical Reactions from Patents
+Overview of the CLEF eHealth 2020 Task 2: Consumer Health Search with Ad Hoc and Spoken Queries
+Overview of Automatic Clinical Coding: Annotations, Guidelines, and Solutions for non-English Clinical Cases at CodiEsp Track of CLEF eHealth 2020
+Overview of eRisk at CLEF 2020: Early Risk Prediction on the Internet (Extended Overview)
+Extended Overview of CLEF HIPE 2020: Named Entity Processing on Historical Newspapers
+Overview of ImageCLEF Lifelog 2020: Lifelog Moment Retrieval and Sport Performance Lifelog
+Overview of the VQA-Med Task at ImageCLEF 2020: Visual Question Answering and Generation in the Medical Domain
+Overview of the 2020 ImageCLEFdrawnUI Task: Detection and Recognition of Hand Drawn Website UIs
+Overview of the ImageCLEFmed 2020 Concept Prediction Task: Medical Image Understanding
+Overview of the ImageCLEFcoral 2020 Task: Automated Coral Reef Image Annotation
+Overview of ImageCLEFtuberculosis 2020 Automatic CT-based Report Generation
+Overview of LifeCLEF Plant Identification task 2020
+Overview of the SnakeCLEF 2020: AutomaticSnake Species Identification Challenge
+Overview of BirdCLEF 2020: Bird Sound Recognition in Complex Acoustic Environments
+Overview of LifeCLEF Location-based Species Prediction Task 2020 (GeoLifeCLEF)
+Overview of LiLAS 2020 - Living Labs for Academic Search Workshop Lab (extended abstract)
+Overview of the Style Change Detection Task at PAN 2020
+Overview of the Celebrity Profiling Task at PAN 2020
+Overview of the Cross-Domain Authorship Verification Task at PAN 2020
+Overview of the 8th Author Profiling Task at PAN 2020: Profiling Fake News Spreaders on Twitter
+Overview of Touché 2020: Argument Retrieval
+Overview of ARQMath-2 (2021): Second CLEF Lab on Answer Retrieval for Questions on Math (Working Notes Version)
+Overview of BioASQ Tasks 9a, 9b and Synergy in CLEF2021
+Overview of BioASQ 2021-MESINESP track. Evaluation of advance hierarchical classification techniques for scientific literature, patents and clinical trials.
+Overview of the CLEF-2021 CheckThat! Lab Task 1 on Check-Worthiness Estimation in Tweets and Political Debates
+Overview of the CLEF-2021 CheckThat! Lab Task 2 on Detecting Previously Fact-Checked Claims in Tweets and Political Debates
+Overview of the CLEF-2021 CheckThat! Lab: Task 3 on Fake News Detection
+Extended Overview of ChEMU 2021: Reaction Reference Resolution and Anaphora Resolution in Chemical Patents
+Overview of CLEF eHealth Task 1 - SpRadIE: A challenge on information extraction from Spanish Radiology Reports
+Consumer Health Search at CLEF eHealth 2021
+Overview of eRisk at CLEF 2021: Early Risk Prediction on the Internet (Extended Overview)
+Overview of the VQA-Med Task at ImageCLEF 2021: Visual Question Answering and Generation in the Medical Domain
+Overview of ImageCLEFtuberculosis 2021 - CT-based Tuberculosis Type Classification
+Overview of the ImageCLEFmed 2021 Concept & Caption Prediction Task
+Overview of ImageCLEFcoral 2021: Coral Reef Image Annotation of a 3D Environment
+Overview of the 2021 ImageCLEFdrawnUI Task: Detection and Recognition of Hand Drawn and Digital Website UIs
+Overview of PlantCLEF 2021: cross-domain plant identification
+Overview of BirdCLEF 2021: Bird call identification in soundscape recordings
+Overview of GeoLifeCLEF 2021: Predicting species distribution from 2 million remote sensing images
+Overview of SnakeCLEF 2021: Automatic Snake Species Identification with Country-Level Focus
+Overview of LiLAS 2021 – Living Labs for Academic Search (Extended Overview)
+Overview of the Cross-Domain Authorship Verification Task at PAN 2021
+Overview of the Style Change Detection Task at PAN 2021
+Profiling Hate Speech Spreaders on Twitter Task at PAN 2021
+Overview of SimpleText CLEF 2021 Workshop and Pilot Tasks
+Overview of the SimpleText Workshop at INFORSID-2021: Scientific Text Simplification and Popularization
+Overview of Touché 2021: Argument Retrieval
+Overview of ARQMath-3 (2022): Third CLEF Lab on Answer Retrieval for Questions on Math (Working Notes Version)
+Overview of BioASQ Tasks 10a, 10b and Synergy10 in CLEF2022
+Overview of DisTEMIST at BioASQ: Automatic detection and normalization of diseases from clinical texts: results, methods, evaluation and multilingual resources
+Overview of the CLEF-2022 CheckThat! Lab Task 1 on Identifying Relevant Claims in Tweets
+Overview of the CLEF-2022 CheckThat! Lab Task 2 on Detecting Previously Fact-Checked Claims
+Overview of the CLEF-2022 CheckThat! Lab: Task 3 on Fake News Detection
+Extended Overview of ChEMU 2022 Evaluation Campaign: Information Extraction in Chemical Patents
+Overview of eRisk 2022: Early Risk Prediction on the Internet (Extended Overview)
+Extended Overview of HIPE-2022: Named Entity Recognition and Linking in Multilingual Historical Documents
+Overview of iDPP@CLEF 2022: The Intelligent Disease Progression Prediction Challenge
+Overview of ImageCLEFmedical 2022 – Caption Prediction and Concept Detection
+Overview of ImageCLEFtuberculosis 2022 - CT-based Cavern Detection and Report
+Overview of the ImageCLEF 2022 Aware Task
+Overview of ImageCLEFfusion 2022 Task - Ensembling Methods for Media Interestingness Prediction and Result Diversification
+ImageCLEFcoral task: Coral reef image annotation and localisation
+Overview of the CLEF 2022 JOKER Task 1: Classify and Explain Instances of Wordplay
+Overview of the CLEF 2022 JOKER Task 2: Translate Wordplay in Named Entities
+Overview of the CLEF 2022 JOKER Task 3: Pun Translation from English into French
+Poetic or Humorous Text Generation: Jam event at PFIA2022
+A Detailed Overview of LeQua@CLEF 2022: Learning to Quantify
+Overview of PlantCLEF 2022: Image-based plant identification at global scale
+Overview of BirdCLEF 2022: Endangered bird species recognition in soundscape recordings
+Overview of GeoLifeCLEF 2022: Predicting Species Presence from Multi-modal Remote Sensing, Bioclimatic and Pedologic Data
+Overview of SnakeCLEF 2022: Automated Snake Species Identification on a Global Scale
+Overview of FungiCLEF 2022: Fungi Recognition as an Open Set Classification Problem
+Overview of the Authorship Verification Task at PAN 2022
+Profiling Irony and Stereotype Spreaders on Twitter (IROSTEREO). Overview for PAN at CLEF 2022
+Overview of the Style Change Detection Task at PAN 2022
+Overview of the CLEF 2022 SimpleText Task 1: Passage Selection for a Simplified Summary
+Overview of the CLEF 2022 SimpleText Task 2: Complexity Spotting in Scientific Abstracts
+Overview of the CLEF 2022 SimpleText Task 3: Query Biased Simplification of Scientific Texts
+Overview of Touché 2022: Argument Retrieval
