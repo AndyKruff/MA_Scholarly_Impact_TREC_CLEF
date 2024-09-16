@@ -23,6 +23,15 @@ The repository contains the following folders:
 - **data:** Contains the necessary data that were gathered for this analysis. PDF files and transformed XML files are not included
 - **images:** Contains the images, that were created for the analysis of the scholarly impact of the two campaigns
 
+In order to overcome the Github file size restrictions some files were compressed as .zip files and need to be decompressed first. This includes:
+
+- data/OpenAlex_CEUR_citing_doc.json
+- data/OpenAlex_LNCS_citing_doc.json
+- data/OpenAlex_TREC_citing_doc.json
+- data/SemanticScholar_CEUR_additional_metadata.json
+- data/author_metadata.json
+
+
 ## Setup the Environment:
 
 For creating the necessary environment to be able to use this Repository a requirements.txt is provided to install the necessary libararies in your environment 
@@ -76,3 +85,6 @@ For more informations regarding GROBID visit the [documentation](https://grobid.
 
 
 For the usage of the ollama Llama3 LLM follow the instructions on the official [website](https://ollama.com/).
+
+For acquiring the PDF's yourself you can use the iniative websites for TREC under [Publications](https://trec.nist.gov/proceedings/proceedings.html) or the [CLEF website](https://www.clef-initiative.eu/) in order to use the further links.
+
