@@ -1,0 +1,600 @@
+A detailed description of the protocol used to build the GeoLifeCLEF 2018 dataset is provided in A detailed description of the protocol used to build the GeoLifeCLEF 2018 dataset is provided in [1].
+GeoLifeCLEF;
+They also implemented training on artificially constructed datasets and reported superior performances on ImageCLEF dataset (García Seco de Herrera et al., 2016).
+ImageCLEF
+One of the means to improve the access to the Linked Data Web lies in the development of natural-language interfaces that can transform human languages or even controlled languages into a representation suitable for querying large knowledge bases [10].
+None
+Organizers of this challenge provided a largescale question answering competition, in which the systems are required to cope with all stages of a question answering task, including the retrieval of relevant articles and snippets as well as the provision of natural language answers [30,31].
+None
+Previous research has shown that di↵erent users tend to issue di↵erent queries for the same information need and that the use of query variations for evaluation of IR systems leads to as much variability as system variations [1,2,23].
+None
+, 2019;Barrón-Cedeno et al., 2020;Hidey et al.
+None
+, 2007), (Müller et al., 2008), (Müller et al.
+None
+, 2017;de Herrera et al., 2018) and stopped in 2019.
+None
+Some of the most common tasks, often co-located with international conferences, are those about fake news (Rangel et al., 2020), hate speech (Bosco et al.
+None
+To effectively leverage the massive explosion of multimedia content, a large number of approaches have been proposed in the areas such as information retrieval, multimedia retrieval and computer vision [2,3,5,11,16].
+None
+• ImageCLEF • ImageCLEF [71]: it consists of more than 250k images belonging to 95 concepts and is split into training, dev and test data; we only consider the dev set, which includes 1,000 images equally split between training and testing, as the ground-truth is released on this dev set only.
+ImageCLEF;
+In recent years there has been an increasing interest in the problem of plant species classification in images In recent years there has been an increasing interest in the problem of plant species classification in images [3,7,12,18].
+None
+PlantCLEF PlantCLEF [32]: The PlantCLEF dataset is a large-scale dataset for plant identification, comprising millions of images covering thousands of plant species, including trees, flowers, fruits, and leaves.
+PlantCLEF;
+Closely related to our initiative is the ImageCLEF benchmarking and in particular the 2009 Photo Retrieval task Closely related to our initiative is the ImageCLEF benchmarking and in particular the 2009 Photo Retrieval task [27] that proposes a dataset consisting of 498,920 news photographs (images and caption text) classified into sub-topics (e.
+ImageCLEF;
+, 2021bNakov et al., , 2022)).
+None
+, 2013;Goeuriot et al., 2014) but may also be provided from works of researchers, such as POS-tag (Tsuruoka et al.
+None
+Moreover, we opted for a ViT model that was pretrained on the plant-relevant dataset PlantCLEF2022 [21].
+PlantCLEF2022;
+However, several runs for Task 3 inserted some context or definition for difficult terms in additional to language simplification [25,11].
+None
+Using the lattices for searching is an important step away from the oversimplifying approach to speech retrieval on the same archive that was adopted by all teams participating in the CLEF campaign CL-SR tracks in 2006 Using the lattices for searching is an important step away from the oversimplifying approach to speech retrieval on the same archive that was adopted by all teams participating in the CLEF campaign CL-SR tracks in 2006 [24] and 2007 [25], where the problem of searching speech was reduced to a classic documentoriented retrieval by using only the one-best ASR output and artificially creating "documents" by sliding a fixedlength window across the resulting text stream.
+CLEF;
+The ImageCLEF evaluation campaign was started as part of the CLEF (Cross Language Evaluation Forum) in 2003 The ImageCLEF evaluation campaign was started as part of the CLEF (Cross Language Evaluation Forum) in 2003 [4,5].
+ImageCLEF
+The third WePS shared task (Artiles et al., 2010) introduced a novel subtask which sought to mine attributes for persons, i.
+None
+Throughout our experiment, we employed the Large-Scale Complex Question Answering DatasetThroughout our experiment, we employed the Large-Scale Complex Question Answering Dataset12 (LC-QuAD) [28] as well as the 5 th edition of Question Answering over Linked Data Challenge13 (QALD-5) dataset [30].
+QALD-5;
+Interesting insights can also be gained from the outcomes of the Image-CLEF image retrieval evaluations [32,33] in which different systems are compared on the same task.
+ImageCLEF;
+Researchers worldwide have contributed to achieve a significant improvement on the clinical handover task because of a shared computational task organized in 2016 Researchers worldwide have contributed to achieve a significant improvement on the clinical handover task because of a shared computational task organized in 2016 [51].
+None
+This workshop is a follow-up to the first SCST workshop at ECIR 2015 ( This workshop is a follow-up to the first SCST workshop at ECIR 2015 ( [5,6]) and is closely related to the Interactive Track of the CLEF Social Book Search Lab of 2015 and 2016 [7,8].
+CLEF;
+• Controversial arguments: Touché • Controversial arguments: Touché (Bondarenko et al., 2020) and ArguAna (Wachsmuth et al.
+CLEF;
+Recent development on GIR systems Recent development on GIR systems [6] evidence that: i) traditional IR systems are able to retrieve the majority of the relevant documents for most queries, but that, ii) they have severe difficulties to generate a pertinent ranking of them.
+None
+The best results were obtained on blogs for English with an accuracy above 75% for gender and below 60% for age identification [25].
+None
+In 2012, INEX introduced the Linked Data track In 2012, INEX introduced the Linked Data track [74] with the aim to investigate retrieval techniques over a combination of textual and highly structured data.
+None
+With the increasing number of high quality datasets, the Semantic Web is seeing a renewed interest in estion Answering (QA) over graph data [18].
+None
+5% accuracy on a far more complex task encompassing 10,000 plant species, characterized by imbalanced, heterogeneous, and noisy visual data [9].
+None
+Changes in writing styles is important for many problems: diagnosis of neurological diseases Changes in writing styles is important for many problems: diagnosis of neurological diseases [4], authorship attribution [5,6], author profiling [7,8], author identification [9] and fake news detection [10,11].
+None
+Two evaluation metrics are employed: the image-centered and the observation score Two evaluation metrics are employed: the image-centered and the observation score [16].
+None
+In this work, 80% of the image randomly selected as training data, whereas the rest (20%) were used for validatio previous studies of deep learning-based computer vision applications [27,28].
+None
+The cross-language search task in CLEF-IP 2010 is adapted for our patent retrieval experiments The cross-language search task in CLEF-IP 2010 is adapted for our patent retrieval experiments [7].
+CLEF;
+For the Spanish paper, we use paper abstracts open sourced by the Mesinesp (Gasco et al., 2021).
+None
+The subtask of compound figure detection was first introduced in ImageCLEF2015 [5] and continued in ImageCLEF2016 [6].
+ImageCLEF;
+ROC-AUC has been a standard machine learning metric [16].
+None
+This is a problem closer to authorship identification;2 see Stamatatos (2009a) and Argamon and Juola (2011) for an overview of state of the art authorship identification approaches that could be exploited when detecting plagiarism from this point of view.
+None
+, 2018), and Webis-Touché (Bondarenko et al., 2021).
+None
+The LifeCLEF Bird task proposes to evaluate one of these challenges The LifeCLEF Bird task proposes to evaluate one of these challenges [12] based on big and real-world data and defined in collaboration with biologists and environmental stakeholders so as to reflect realistic usage scenarios.
+LifeCLEF
+The ImageCLEF 2011 [50] and ImageCLEF 2012 [51] datasets were used for the experiments.
+ImageCLEF;
+As users visit selected news publishers, ORP randomly forwards recommendation requests to registered participants [8].
+None
+Additional comparable approaches can be seen in the results reported by [Inches and Crestani 2012], our figure for [Villatoro-Tello et al.
+None
+For details of the creation of CLEF18 dataset, we refer to[3,104].
+None
+Our work is ultimately aimed at real-world applications for biodiversity, and these can be more difficult than standard benchmarks, as evidenced in the LifeCLEF competition Our work is ultimately aimed at real-world applications for biodiversity, and these can be more difficult than standard benchmarks, as evidenced in the LifeCLEF competition [66] .
+LifeCLEF;
+The tasks are: multilingual Information extraction; technologically assisted reviews in empirical medicine; and, patient-centred information retrieval [15].
+None
+The 2018 ImageCLEF-Med challenge [6] provides a good overview about the approaches and their results.
+ImageCLEF;
+, check-worthiness estimation has been severely understudied as a problem [1,5,7].
+None
+(2018), and in public competitions (Kahl et al., 2019).
+None
+The CLEF-IP tracks included a patent classification task [46], [47], which provided a dataset of more than 1 million patents as the training set to classify 3,000 patents into their IPC subclasses.
+CLEF;
+• PAN12 [42] unlike the short email lengths per author in PAN11, this dataset consisted of dense volumes per author.
+PAN;
+Além deste trabalho, [Potthast et al. 2016] avaliaram a eficiência de três métodos de ofuscac ¸ão [Keswani et al.
+None
+Dissimilarity values are very close, however differences are often statistically significant (details are not provided here but can be found in [72] for 2012 and in [8] for 2013).
+None
+Let us now introduce the context of the plant identification task of ImageCLEF 2011 Let us now introduce the context of the plant identification task of ImageCLEF 2011 [9].
+ImageCLEF
+While plant related datasets exist for leaf or flower recognition (Goëau et al., 2012;Silva et al.
+None
+The ImageCLEF 2012 The ImageCLEF 2012 [26] image dataset was adopted in this work in order to evaluate the proposed methodology by considering the plant identification species from its leaves.
+ImageCLEF;
+Les principales caractéristiques de la collection qui a été utilisée dans le cadre de la compétition ImageCLEF 2008 et 2009 (Tsikrika et al.,, 2008 ;Tsikrika et al.
+ImageCLEF
+[20] Natural Images 50,000 10,000 Tiny ImageNet [21] Natural Images (ImageNet subset) 100,000 10,000 Stanford dogs [22] Natural Images (Dog breeds) 12,000 8,580 Flowers-102 [23] Natural Images (Flower species) 2,040 6,149 CUB-200-2011 [24] Natural Images (Bird species) 5,994 5,794 Stanford Cars [25] Natural Images (Car models) 8,144 8,041 Food-101 [26] Natural Images (Food categories) 75,750 25,250 DTD [27] Texture Images 1,880 1,880 47 NEU Surface Defects [28] Surface Defect Images 1,440 360 6 UC Merced Land Use [29] Remote Sensing Images 1,680 420 21 EuroSAT [30] Remote Sensing Images 18,900 8,100 10 PlantVillage [31] Plant Images 44,343 11,105 39 PlantCLEF [32] Plant Images 10,455 1135 20 Galaxy10 DECals [33] Astronomy Images (Galaxy Morphology) Stanford Dogs [22]: Stanford Dogs dataset is a comprehensive dataset for fine-grained image classification, containing 20,580 images of 120 different dog breeds.
+PlantCLEF;
+In addition to the RTE2 corpus, I experimented with the English section of the CLEF 2006 Answer Validation Exercise (CLEF-AVE) corpus In addition to the RTE2 corpus, I experimented with the English section of the CLEF 2006 Answer Validation Exercise (CLEF-AVE) corpus (Peñas et al., 2007).
+CLEF;
+The CLEF Technology Assisted Reviews (TAR) track The CLEF Technology Assisted Reviews (TAR) track [25,26] considers both screening prioritisation and stopping prediction tasks.
+None
+BRILIW was presented at CLEF 2006 being ranked first in the bilingual English-Spanish QA task (Magnini et al, 2006;Ferrández et al, 2006).
+CLEF;
+Four of our five runs are ranked as the first four runs in the GeoCLEF 2007 evaluation task (consult Mandl et al. (2007) for more details) both considering Mean Average Precision (ranging from 28.
+GeoCLEF;
+Assuming that the transportation network T belongs to a family of models with infinite capacity, which means it has the ability to approximate any continuous function with arbitrary precision, then the optimization problem in ( 4) is equivalent to the optimization problem in (3).
+None
+There is also a plethora of works on exploiting social media for a variety of tasks, like opinion summarization [24], event and rumor detection [16,28], topic popularity and summarization [2,42], information diffusion [18], popularity prediction [34], and reputation monitoring [1].
+None
+The main objective of question answering over linked data [17,26] is to facilitate, in part, multilingual access to the information originally produced in different culture and language.
+None
+Content Generation Content Generation [124] generating new medical descriptions or knowledge based on a given input  [127] 2012 ∼4K English RE Link ShARe13 [128] 2013 ∼29K English NER Link GENIA13 [129] 2013 ∼5K English EE Link NCBI [21] 2014 ∼7K English NER Link ShARe14 [130] 2014 ∼35K English NER Link CADEC [20] 2015 ∼7.
+ShARe13; GENIA13; ShARe14; CADEC
+, 2018;Losada et al., 2019), p is set such that the penalty is 0.
+None
+Esta subseção descreve as características do conjunto de dados utilizado, o algoritmo baseline, que foi o vencedor da competição RepLab2014 Esta subseção descreve as características do conjunto de dados utilizado, o algoritmo baseline, que foi o vencedor da competição RepLab2014 [1] e as métricas de avaliação.
+RepubliC;
+The MSPRL (Kordjamshidi et al., 2017)   10a) for relation types.
+None
+• In the 2018 PAN authorship attribution task [14], features continued to focus on characters and word n-grams, with various weighting and normalization methods.
+None
+Notable features that are repeatedly included are reading scores [8,78], part of speech tagging [80], occasions of drug word usage [81] and sentiment or valence measures [78].
+None
+The training set used for the challenge will be a version of the 2019 training set The training set used for the challenge will be a version of the 2019 training set [40] enriched by new contributions from the Xeno-canto network and a geographic extension.
+None
+, 2010;Nowak and Huiskes, 2010;Nowak et al., 2011;Thomee and Popescu, 2012], shows that the first model outperforms the state-of-the-art methods on three out of five datasets and the second proposed model outperforms the state-of-the-art methods on the five considered datasets on a tag-based image annotation task.
+None
+Les organisateurs ont donc proposé une mesure d'évaluation qui calcule une divergence entre le contexte produit et les phrases jugées pertinentes [4,22].
+None
+IRMA dataset -The Image Retrieval in Medical Applications (IRMA) dataset, created by the Aachen University of Technology, has been used to evaluate retrieval methods for medical CBIR tasks IRMA dataset -The Image Retrieval in Medical Applications (IRMA) dataset, created by the Aachen University of Technology, has been used to evaluate retrieval methods for medical CBIR tasks [25].
+None
+Similarly, GeoLifeCLEF competition series [22,11,17,40,41,10] provide a list of benchmark datasets for location-based species classification.
+GeoLife;
+The IRMA database with a collection of 14,410 x-ray images taken arbitrary form medical routine is used for training and testing The IRMA database with a collection of 14,410 x-ray images taken arbitrary form medical routine is used for training and testing [25], [26], [27].
+None
+The task and data used in this study are based on the CLEF Lab eRisk task 2 The task and data used in this study are based on the CLEF Lab eRisk task 2 [16].
+eRisk;
+The LifeCLEF 2015 bird dataset The LifeCLEF 2015 bird dataset [3] is built from the Xeno-canto collaborative database 6 involving at the time of writing more than 240k audio records covering 9,350 bird species observed all around the world thanks to the active work of more than 2,510 contributors.
+LifeCLEF;
+According to According to [7], author obfuscation performance is measured based on three parameters, namely safety (the ability to disguise the original author from a given text), soundness (the level of similarity between the text modified from the obfuscation process with the original text), and sensibleness (the quality of grammar and legibility of the resulting text).
+None
+In the LifeCLEF Bird (Audio) Identification Task 2016/2017 algorithm benchmarking competition, the top algorithms were a variation of fully supervised deep learning CNN architecture [35], [36].
+LifeCLEF;
+The 4th edition of the task will follow a similar format to previous editions [2][3][4] where participants automatically segment and label a collection of images that can be used in combination to create three-dimensional models of an underwater environment.
+None
+We are currently exploring the use of our document correction method for the CLEF speech retrieval task based on oral testimonies [6].
+CLEF;
+Retrieval-based systems were also the top performing submissions of the ImageCLEF Caption Prediction subtask, a task that ran for two consecutive years [20,24].
+ImageCLEF;
+In 2013 In 2013 [10], 2014 [11] and 2015 [12] PAN competition age and gender profiling was done on the English and Spanish datasets with the traditional supervised machine learning approaches: Logistic Regression, Random Forest, SVMs, etc.
+None
+These are mainly built for the purposes of challenges (Kelly et al., 2013;Goeuriot et al.
+None
+The proposed model is tested on the ImageCLEF2007 data collection The proposed model is tested on the ImageCLEF2007 data collection [12], the purpose of which is to investigate the effectiveness of combining image and text for retrieval tasks.
+ImageCLEF2007;
+Aachen University of Technology provided both of the manually IRMA coded datasets [35].
+None
+For the style breach detection sub-task, we chose as a baseline model the approach of Khan For the style breach detection sub-task, we chose as a baseline model the approach of Khan [8] which is state-ofthe-art on PAN 2017 Competition [9].
+None
+This follows a previous task initiated in [7] about cultural microblog contextualization.
+None
+The GeoCLEF search task examined geographic search in text corpus [18].
+GeoCLEF;
+Over the past three years, the CLEF check-that lab introduced tasks for detecting check-worthy political claims from debates and social media Over the past three years, the CLEF check-that lab introduced tasks for detecting check-worthy political claims from debates and social media (Nakov et al., 2018;Elsayed et al.
+CLEF;
+2022 competition [25].
+None
+, grouping documents by authorship) [16,23].
+None
+In their study on a sample of 2000 tweets, Pear Analytics In their study on a sample of 2000 tweets, Pear Analytics [1] classified 40% as containing "pointless babble", with another 37.
+None
+In 2017, the Second Workshop on Lifelogging Tools and Applications was organized simultaneously with the lifelog evaluation tasks, NTCIR-13 Lifelog-2 Task [76] and ImageCLEFlifelog 2017 Task [81].
+ImageCLEF;lifelog
+The idea of creating all the possible combinations of components has been proposed by Ferro and Harman The idea of creating all the possible combinations of components has been proposed by Ferro and Harman [22], who noted that a systematic series of experiments on standard collections would have created a GoP, where (ideally) all the combinations of retrieval methods and components are represented, allowing us to gain more insights about the effectiveness of the different components and their interaction; this would have called also for the identification of suitable baselines with respect to which all the comparisons have to be made.
+None
+The Idiap research team [4] coupled LBP and modSIFT [5].
+None
+The PAN 2015, 2016, 2017 and 2018 datasets The PAN 2015, 2016, 2017 and 2018 datasets [19,20] consisting of tweets in different languages.
+PAN;
+It was designed as a follow up to the shared tasks organized during the ShARe/CLEF eHealth 2013 evaluation It was designed as a follow up to the shared tasks organized during the ShARe/CLEF eHealth 2013 evaluation (Suominen et al., 2013;Pradhan et al.
+ShARe/CLEF
+Ever since, workshops and tasks have been pursued to advance research onto some of its key challenges: The Second Workshop on Lifelogging Tools and Applications (LTA 2017) [9], NTCIR Lifelog Tasks [13,14], Image-CLEFlifelog [3][4][5]28], and the Lifelogging Search Challenges (LSC) [15][16][17].
+Image-CLEF;
+2005;Hashemi and Kamps 2014;Macdonald et al. 2015).
+None
+, 2020;Shaar et al., 2020;Hasanain et al.
+None
+In the clinical domain, the ShARe/CLEF 2013 eHealth Eval-51 uation Lab and the i2b2/VA challenge methodologies have been applied in shared tasks 52 [11][12][13].
+ShARe;
+The experiments were conducted with the dataset initially provided by The experiments were conducted with the dataset initially provided by [Losada and Crestani 2016] and published as part of the CLEF eRisk 2017 Task [Losada et al. 2017].
+CLEF;
+There is also a workshop on web people searching, called WePS (standing for Web People Search) [1][2][3], that is concerned with organizing web results for a person's given name.
+None
+Table Table 1 shows the results of plagiarism detection in terms of Precision, Recall and Plagdet [11] scores.
+None
+The Pl@antLeaves II The Pl@antLeaves II [48] dataset is a subset of the ImageCLEF2012 [49] dataset, which contains different types of leaves from trees of the Mediterranean region of France.
+ImageCLEF2012
+As far as quantities are concerned, lookups are supported by many methods, over both knowledge graphs and text documents, and are part of major benchmarks, such as QALD [36], NaturalQuestions [22], ComplexWebQuestions [35], LC-QuAD [12] and others.
+None
+In the 2014 ShARe/CLEF eHealth task 2, in an effort to leverage this annotated dataset, several approaches were taken to normalize semantic modifiers such as body site and severity which included optimizing cTAKES modules, developing rules based on resources from UMLS, and employing grammatical relations In the 2014 ShARe/CLEF eHealth task 2, in an effort to leverage this annotated dataset, several approaches were taken to normalize semantic modifiers such as body site and severity which included optimizing cTAKES modules, developing rules based on resources from UMLS, and employing grammatical relations [48].
+CLEF;
+, the search for health information by people without special medical expertise (Suominen et al., 2021).
+None
+This chapter is based on two papers by Balog, Kelly, and Schuth This chapter is based on two papers by Balog, Kelly, and Schuth [15] and Schuth, Balog, and Kelly [164].
+None
+proposed some automatic and manual methods to evaluate and validate submitted corpora on the first shared task on plagiarism detection data submission (Potthast, Goering, Rosso, & Stein, 2015).
+None
+• Ligação autoral: é uma versão mais flexível do agrupamento autoral, em que pares de documentos são ordenados pela confiança de pertencerem ao mesmo autor • Ligação autoral: é uma versão mais flexível do agrupamento autoral, em que pares de documentos são ordenados pela confiança de pertencerem ao mesmo autor (TSCHUGGNALL et al., 2017).
+None
+In 2015, 1,568 were distributed for the ImageCLEFmed multi-label task [10] In 2016, ImageCLEFmed proposed 5 tasks: compound figure detection; compound figure separation; multi-label classification; subfigure classification and caption prediction.
+ImageCLEFmed;
+Large online image libraries can be rapidly developed; for example, several hundred thousand images of 10,000 Amazonian plant species [50] have been collected.
+None
+To reduce the time and effort needed for information extraction from chemical literature and patents, datasets and text mining approaches have been developed on a wide range of information extraction tasks, including named entity recognition and relation extraction To reduce the time and effort needed for information extraction from chemical literature and patents, datasets and text mining approaches have been developed on a wide range of information extraction tasks, including named entity recognition and relation extraction [7,8,9,10,11,12].
+None
+image search diversification [23][24][25][26][27].
+None
+The ShARe/CLEF 2014 [6] and SemEval 2015 [7] organized open challenges on detecting disorder mentions (subtask 1) and identifying various attributes (subtask 2) for a given disorder, including negation, severity, body location etc.
+CLEF;
+We did not evaluate our model on standard medical ad hoc IR collection such as CLEF eHealth 2013 [26] or CLEF eHealth 2014 [7] because they contain about 50 annotated queries each which is not enough to train NLTR models [9,30].
+CLEF;
+The collection is a subset of a larger collection of 77,000 images made available by the medical image retrieval track in 2010 [9] of ImageCLEF1 evaluation.
+ImageCLEF;
+Four of the five runs were ranked as the first four runs in the GeoCLEF 2007 evaluation task (consult Mandl et al. (2007) for more details) both considering Mean Average Precision (ranging from 28.
+GeoCLEF;
+• RepLab polarity dataset • RepLab polarity dataset [1]: A dataset of 84,745 tweets mentioning companies, annotated for polarity as positive, negative or neutral.
+None
+The data comes from the CLEF-IP 2010 task [ 5], where 134 French patent topics are used to search a collection of 1.
+CLEF
+[104] concluded that "all submissions, despite their increased level of sophistication in most of the cases, were outperformed by a naive baseline based on character n-grams and cosine similarity" thus noticing a situation of stall in the progress on AV.
+None
+The third edition of the Robot Vision challenge The third edition of the Robot Vision challenge [32] was attended by seven groups, with three of them participating to both tasks: mandatory and optional.
+None
+97%) in this competition using stylistic and second-order features into SVM [20].
+None
+The dataset was the same as the one used for BirdCLEF 2017 The dataset was the same as the one used for BirdCLEF 2017 [4], mostly based on the contributions of the Xeno-Canto network.
+BirdCLEF;
+Given that we restricted the number of images per species to a maximum of 8, while successful deep learning-based plant species identification usually requires thousands of images 12,22 , it seems very unlikely that the models inferred traits from species-specific plant features visible in the imagery.
+None
+, 2019) eHealth dataset is a curated collection of non-technical summaries (NTS) of animal experiments from Germany, which was used to organize the Multilingual Information Extraction Task (Task 1) in the CLEF eHealth Challenge 2019 (Dörendahl et al., 2019).
+CLEF;
+Some of these were selected from the Xeno-canto1 database [24,33,34], others were taken from the Birds of Argentina & Uruguay: A Field Guide Total Edition corpus [12,27,30], and finally, several recordings were taken from The Internet Bird Collection2  [1].
+None
+2017aNguyen et al. , 2018) ) which focused on a series of image-retrieval and summarisation focused benchmarking initiatives since 2017, and the Lifelog Search Challenge (LSC) (Gurrin et al.
+CLEF; None
+In our research, we used training dataset from PAN conference 2017 In our research, we used training dataset from PAN conference 2017 [8].
+None
+The first and main contribution of this research has been a simple feature set for Wikipedia vandalism detection that won the 1st International Competition on Wikipedia Vandalism Detection, as published in The first and main contribution of this research has been a simple feature set for Wikipedia vandalism detection that won the 1st International Competition on Wikipedia Vandalism Detection, as published in (Mola-Velasco 2010;Potthast, Stein, and Holfeld 2010).
+CLEF;
+, 2014) and previous challenge 2013 (Pradhan et al., 2013), we had focused on the task of named entity recognition for disorder mentions in clinical texs, along with normalization to UMLS CUIs.
+None
+He is an initiator of the CLEF shared task series Touché on argument retrieval (Bondarenko et al., 2022), and co-chaired SemEval tasks on argument reasoning comprehension (Habernal et al.
+None
+com/sshaar/That-is-a-Known-Lie (2) CLEF 22 2A-EN and 2B-EN [3] https://sites.
+None
+Future studies could make use of databases such as the CLEF TAR database [54] or the systematic review dataset repository [55].
+CLEF;
+Specifically, we used the 299 clinical records annotated with disorder mentions normalised to concept unique identifiers (CUIs) in SNOMED-CT, released in the context of the ShARe/CLEF eHealth Evaluation Lab 2013 (Suominen et al. 2013), and the 1,500 PubMed abstracts annotated with disease mentions normalised to MeSH IDs, created for the BioCreative V Chemical Disease Relation (CDR) Task (Li et al.
+ShARe/CLEF;
+Different participating teams experimented with term distribution analysis in a language modeling setting employing the document structure of the patent documents in various ways (Piroi and Tait 2010).
+None
+There is a growing body of work investigating finegrained image classification of birds There is a growing body of work investigating finegrained image classification of birds [8,24,27], insects [15,18], flowers [6,19] and leaves [1,6,14].
+None
+The CLEF 2018 eHealth Evaluation Lab Consumer Health Search (CHS) task The CLEF 2018 eHealth Evaluation Lab Consumer Health Search (CHS) task [20] investigated the problem of retrieving Web pages to support information needs of health consumers that are confronted with a health problem or a medical condition.
+CLEF;
+Moreover, methods based on CNNs perform well in multiple fine-grained species identification tasks, including plant species classification [41][42][43][44], dog classification [45], snake classification [46], bird classification [18,47,48] and in general species classification [17,49,50].
+None
+The used document collection is provided by the Radiological Society of North America (RNSA) and constitutes an important body of medical knowledge issued from peer-reviewed scientific literature (Muller et al., 2008).
+None
+12, which is within the range of visual retrieval results reported for the ImageCLEFmed 2008 medical image retrieval task, and is consistent with the observation that visual retrieval techniques can degrade the overall performance [12].
+ImageCLEFmed;
+For QALD-  shows the results achieved in QALD-3 for DBpedia test set [105].
+None
+ImageClef, the CLEF Cross Language Image Retrieval Track54 , is a benchmark for the evaluation of cross-language annotation and retrieval of images (Caputo et al, 2014).
+CLEF;
+An empirical support for the benefits of our methodology is by testing it in a similar context to the one used for the automatic identification of sexual predators An empirical support for the benefits of our methodology is by testing it in a similar context to the one used for the automatic identification of sexual predators (21) in which a ranked list of suspects is automatically created to prioritize the investigation.
+None
+More detailed descriptions are available in the 2013 and 2014 task overview papers in the CLEF proceedings [14,18].
+None
+The subwords were learned in a fully unsupervised manner using the morphological segmentation algorithm Morfessor Categories-MAP The subwords were learned in a fully unsupervised manner using the morphological segmentation algorithm Morfessor Categories-MAP [34], which has become a standard for unsupervised morphological segmentation [46].
+None
+The living lab is described in detail in [12].
+None
+The first one is the RepLab 2014 dataset (Amigo ´et al. 2014), which contains a track for the automotive domain.
+None
+system developed by The Health on the Net Foundation supports English, French and Italian, while DIOGENE system supports only two languages: English and Italian, but in contrast to cross-lingual systems the question are asked in either Italian or English, retrieval of information is carried out in Italian or English, and the answer is given in the language of the query (Magnini et al., 2003).
+None
+ImageCLEF 2010 PhotoAnnotation: The Image-CLEF2010 PhotoAnnotation data set[28] consists of 8000 labeled training images taken from flickr and a test set with recently disclosed labels.
+ImageCLEF;
+A similar problem was later reintroduced as the ImageCLEF subfigure classification sub-task in 2015 and 2016 which focused on modality classification of individual subfigures of compound figures, in effect removing the "COMP" or compound figure modality [14,15].
+ImageCLEF
+Only for Arabic it was possible to improve accuracy (albeit less than 2%) [21].
+None
+We decided to work on the 2008 IRMA database version [5], just considering the third axis of the code: it describes the anatomy, namely which part of the body is depicted, independently to the used acquisition technique or direction.
+None
+AId is usually tackled by means of machine-learned classifiers or distance-based methods; the annual PAN shared tasks AId is usually tackled by means of machine-learned classifiers or distance-based methods; the annual PAN shared tasks [31,6,7,53,8] offer a very good overview of the most recent trends in the field.
+PAN
+Основным методом автоматической верификации авторства является классификация текстов с помощью векторов стилометрических характеристик Основным методом автоматической верификации авторства является классификация текстов с помощью векторов стилометрических характеристик [7].
+None
+The increasing uptake of lifelogging as a personal and practitioner technology have also lead to related activities in ImageCLEF [2], the Lifelog Search Challenge [11] and a related task at MediaEval 2019.
+ImageCLEF;
+Further, research on performing large-scale experiments on automatic approaches for identifying species from imagery data collected from citizen science portals revealed that automated species classification performs similarly and sometimes even better than manual annotations performed by citizen scientists [24,25,29].
+None
+The same holds for the problem of fine-grained visual categorization (FGVC), where datasets and challenges like PlantCLEF [14][15][16], iNaturalist [17], CUB [18], and Oxford Flowers [19] have triggered the development and evaluation of novel approaches to fine-grained domain adaptation [20], domain specific transfer learning [21], image retrieval [22][23][24], unsupervised visual representation [25,26], few-shot learning [27], transfer learning [21] and prior-shift [28].
+PlantCLEF
+To detect cities, it combines a heuristic method inspired by the schema introduced in [34] with a rank-reciprocity algorithm that helps it detect misspellings (e.
+None
+We refer to [14] for details.
+None
+The organizers shared a dataset of 2,309 unannotated drug 4 Although CLEF eHealth is organized every year [13,14], its main focus is multi-linguality and information retrieval rather than clinical NLP Table 1 Clinical NLP Challenges, the tasks they posed, and the number of participating teams, since 2015, ordered by data sensitivity.
+None
+[5]), sentences in medical newswire are long and complex, often positioning the primary claim(s) within a larger context of other information [96], we obtain 6,000 news articles from the "Health" category of Google News during April 2018 and augment this with the top 25 RSS feeds in the "Health and Healthy Living" category5 from November 2018 through April 2019 to get over 34,000 news articles.
+None
+To address the issue of imbalance classes, we included some examples from the Zenodo dataset, which is a COVID-19 false news dataset [41].
+None
+The Conference and Labs of Evaluation Forum for Early Risk XSL • FO RenderX Prediction (CLEF eRISK) is a public competition about different areas such as health and safety [26].
+eRISK;
+In case the user opens the moment-detailed box (3) for further browsing, the user can use the temporal browsing panel (5) to view the previous/after moments of the selected one by horizontal scrolling the panel as well as adjusting the time delta to view the temporal nearby or further apart moments.
+None
+The dataset is provided by ImageCLEF Tuberculosis 2019 The dataset is provided by ImageCLEF Tuberculosis 2019 [4]  [17], intended for the task of severity scoring (SVR).
+ImageCLEF;
+Extending the prior work inclusion criterion from text to other data modalities, the ImageCLEF lab included annual shared tasks on biomedical image processing from 2005 to 2013 [29][30][31].
+ImageCLEF
+The thesis is based on in total 8 publications [15,[161][162][163][164][165][166][167].
+None
+2018;Nakov et al. 2018].
+None
+In image retrieval such community building has started around the ImageCLEFmed [12,36] medical image retrieval benchmark.
+ImageCLEFmed;
+Various methods have been applied to the task, ranging from SVM based approaches, such as (Kestemont et al., 2018), to transformer based models, like (Bauersfeld et al.
+None
+Twitter datasets were annotated for the task of reputation monitoring Twitter datasets were annotated for the task of reputation monitoring [1,9].
+None
+We evaluate HAWK against the QALD We evaluate HAWK against the QALD [21] benchmark.
+None
+A base de imagens utilizada foi a da ImageCLEF Photographic Retrieval Task [Arni et al. 2009], composta por 20.
+ImageCLEF;
+Motivated by this, we extend our proposed model Motivated by this, we extend our proposed model [9] for the ImageCLEFmedical 2021 [10], [11] by adding an explainability module.
+ImageCLEFmedical;
+, 2010] and ImageClef'11 [Nowak et al., 2011] datasets were collected from Flickr but they differ significantly.
+ImageClef;
+With appearance of publicly available audio datasets, such as freefield1010 [2], Warblr [3] or Chernobyl dataset from TREE project 1 and challenges for bird recognition, such as the LifeCLEF Bird Identification Task [4] and the recent Bird Audio Detection (BAD) Challenge [3], the problem has received considerable attention from audio research community.
+LifeCLEF;
+The text simplification task (Ermakova et al. 2021) is a promising research direction for providing simplified explanations.
+None
+CéPIDC CéPIDC [34] (the latter in the context of the participation of SIFR Annotator in the CLEF eHealth 2017 challenge [45]) 13 .
+CLEF;
+A newer version of this dataset is published by the CLEF 2017 NewsREEL [126] task, and a competition is held based on this data to train and evaluate news recommender systems.
+NewsREEL;
+This problem has been also addressed in PAN Workshop and Competition: Uncovering Plagiarism, Authorship and Social Software Misuse (Argamon, Juola 2011, Juola, Stamatos 2013).
+None
+A obtenc ¸ão de conversas regulares é considerada uma tarefa complexa, porque, normalmente, apresentam informac ¸ões sensíveis ou restritas às pessoas envolvidas nas conversas particulares [Inches and Crestani 2012].
+None
+For our experiments, we utilize ImageCLEF2015 and ImageCLEF2016 subfigure classification datasets [33,34] created from a subset of PubMed Central.
+ImageCLEF2015;ImageCLEF2016
+73% on the LCF-15 [24], [25] dataset.
+LCF-15
+, 2021;Joly et al., 2021;Reedha et al.
+None
+Furthermore, there is an evidence that the combination or fusion of information from textual and visual sources can improve the overall retrieval quality [17,27].
+None
+In the ImageClef 2007 medical image classification competition In the ImageClef 2007 medical image classification competition [56], a database of 12,000 categorized radiograph images is used.
+ImageClef;
+, 2004;Carneiro and Vasconcelos, 2005;Nowak and Huiskes, 2010;Semenovich and Sowmya, 2010;Zhang et al.
+None
+GRAM2VEC was developed on the publicly available PAN22 corpus (Bevendorff et al., 2022), which we refer to throughout the paper.
+None
+The formula used to rank the runs in the ImageCLEF 2012 plant identification task is nearly the same as in 2011 (see The formula used to rank the runs in the ImageCLEF 2012 plant identification task is nearly the same as in 2011 (see [9] for details).
+ImageCLEF;
+We focus on the protest event detection task following the 2019 CLEF ProtestNews Lab We focus on the protest event detection task following the 2019 CLEF ProtestNews Lab (Hürriyetoglu et al., 2019).
+ProtestNews;
+Recently, the TREC Dynamic Domain Track (2015-2017) [45], TREC Tasks track (2015-2017) [22] and the CLEF Dynamic Search Lab (2017-2018) [21] have also brought significant benefits to the research progress in this area.
+CLEF;
+In the last years, shared lifelogging retrieval tasks were set up on different continents In the last years, shared lifelogging retrieval tasks were set up on different continents [9,14,16,28] in order to bring the attention of a wider audience to lifelogging and to promote research into some of its key challenges.
+None
+lab at CLEF2019 (Hasanain et al., 2019).
+CLEF;
+As summed up in As summed up in [10], the systems that took part in the rst edition of this shared task opted for dierent methods, namely: dictionary-based pattern matching, machine learning (including topic modeling) and information retrieval methods.
+None
+This category involves several species, from the smallest such as insects or birds emitting trains of voiced pulses [2,3] to the largest mammals.
+None
+2016 presidential election (following the same setting as in the official CLEF 2018 competition on check-worthiness detection [17] but using even more data).
+CLEF;
+Although X-rays are frequently used, they have side effects such as exposure to ionizing radiation harmful to the human body and relatively low information when compared to other imaging methods; • Computerized Tomography (CT): is a more advanced imaging test that can be used to detect disorders such as cancer that an X-ray could miss [36][37][38][39].
+None
+Data from fanfiction has been used in NLP research for a variety of tasks, including authorship attribution Data from fanfiction has been used in NLP research for a variety of tasks, including authorship attribution (Kestemont et al., 2018), action prediction (Vilares and Gómez-Rodríguez, 2019), finegrained entity typing (Chu et al.
+None
+In ImageCLEF 2016 In ImageCLEF 2016 [6], they expand their training set to 20,997 figures and reduce the size of the test set to 3456.
+ImageCLEF;
+Therefore, a future step in the evaluation of our search approach would be to benchmark our methods against these existing IR techniques specifically developed for the prior art search, for example, using the CLEF-IP datasets [35,36].
+CLEF;
+Another witness of this trend are geographic information retrieval systems [5,12,17,19] and in particular local search services, such as Google Maps1 , Yahoo!
+None
+The last edition of CLEF (2006) The last edition of CLEF (2006) [15] has confirmed that most of the implementations of current CL-QA systems [5,13,18,20,21]are based on the use of on-line translation services.
+None
+Lab Task 2 (verified claim retrieval ) challenges of the CLEF2020 [25], CLEF2021 [6] and CLEF2022 [7] initiatives in English language.
+CLEF;
+Since 2010, academic competitions have been held to enhance and compare automatic vandalism detection techniques in Wikipedia, using an annotated corpus of changes as the ground truth (Potthast and Holfeld, 2011).
+None
+As proposed by the Swedish Institute of Computer Science, SICS, in iCLEF 2009 As proposed by the Swedish Institute of Computer Science, SICS, in iCLEF 2009 (Gonzalo et al., 2010), we have used several measures related to question reformulations: (i) correctness (the fraction of questions for which there is at least one right reformulation offered by our system), obtaining a 75.
+iCLEF;
+In the past ten years research projects such as Assert [7], IRMA 1 (Image Retrieval in Medical Applications [8]), and MedGIFT2 (Medical GNU Image Finding Tool, [9]) have advanced the field through a fairly large number of publications and explorations of several sub-domains of medical image re-trieval such as varying feature spaces, interaction with the user [10], evaluation of real user needs [11], and evaluations of image retrieval systems [12].
+None
+We used data from CLEF-2007 and CLEF-2008 [12,18].
+CLEF;CLEF
+The BirdCLEF2019 dataset contains about 350 h of soundscapes, which was built for the 2019BirdCLEF challenge The BirdCLEF2019 dataset contains about 350 h of soundscapes, which was built for the 2019BirdCLEF challenge [31].
+BirdCLEF2019;
+Compared to previous results reported for gender detection on Twitter in Italian, as obtained at the 2015 PAN Lab challenge on author profiling (Rangel et al., 2015), and on the TwiSty dataset (Verhoeven et al.
+None
+The first edition was organized with the aim of investigating age and gender identification in a social media realistic scenario [11].
+None
+For text-oriented QA, the TREC [2,32] and CLEF [21] conference series offer a wealth of benchmark questions, but there is no design consideration on harnessing structured data at all.
+CLEF;
+For example, the inter-annotator agreement rate during the preparation of the SENSEVAL-3 WSD English All-Words-Task dataset (Agirre et al., 2007) was approximately 72.
+None
+, , 2019) ) and verification (Barrón-Cedeño et al., 2018;Hasanain et al.
+None
+Interestingly, the participants of the QALD-3 challenge [14] cover a wide range of the formality continuum, even if most of them (4/6) fall in the "spontaneous natural language" category.
+None
+Currently, the used of only visual information still achieves low retrieval performance in this task and the combination of text and visual search is improving and seems promising Currently, the used of only visual information still achieves low retrieval performance in this task and the combination of text and visual search is improving and seems promising [17].
+None
+Feature representation methods, including word embeddings, Bag of Words, Named Entity Recognition, and Part of Speech tagging [6,7,9] have been widely used to enhance model understanding of the task.
+None
+Out of the five R's, retrieving lifelog data, typically lifelog photos, has been the subject of the majority of lifelog research, as seen in various workshops [11,12,21].
+None
+It was created for evaluation on the image track of the Cross Language Evaluation Forum [5].
+CLEF;
+[22] due to the continual, ongoing evolution of misinformation requiring the continual retraining of models.
+None
+We train our models on a subset of Wikipedia articles provided in the Wikipedia ImageCLEF dataset We train our models on a subset of Wikipedia articles provided in the Wikipedia ImageCLEF dataset [35].
+Wikipedia ImageCLEF;
+In ImageCLEF2016 [34], they expand the training set to 6776 figures and the test set to 4166 figures.
+ImageCLEF;
+Text stylometry was initially popularized in the area of forensic linguistics, specifically to the problems of author profiling and author attribution (Juola, 2006;Rangel et al., 2013).
+None
+The transcripts produced with Automatic Speech Recognition (ASR) systems tend to contain many recognition errors, leading to low Information Retrieval (IR) performance [1] unlike the retrieval from broadcast speech, where the lower word error rate did not harm the retrieval [2].
+None
+This has been most commonly used in shared tasks (Nakov et al., 2021).
+None
+, Lasseck, 2013;Murcia and Paniagua, 2013;Goëau et al., 2014;Stowell et al.
+None
+Potthast and Holfeld (2011);Potthast et al. (2010c) for an overview on automatic detection of this kind of "contribution".
+None
+For age detection, we followed what was previously done in [37] and three classes where considered: 10s (13-17), 20s (23-27) and 30s (33)(34)(35)(36)(37)(38)(39)(40)(41)(42)(43)(44)(45)(46)(47).
+None
+[143] leverage a recently proposed EL toolkit REL [181] for mining historical newspapers for people, places, and other entities in the CLEF HIPE 2020 evaluation campaign [37].
+CLEF;
+An overview of the approaches of last year's participants of NEWSREEL 2014 is provided in [10].
+None
+k See Inches & Crestani k See Inches & Crestani [51] for further detail related to creation of the Dataset.
+None
+Seit 2015 ist DBIS im Organisationsteam des international angesehenen PAN-Workshops vertreten, der jährliche Tasks rund um das Thema Textanalyse veranstaltet [17,22].
+None
+, 2010;Nowak and Huiskes, 2010;Nowak et al.
+None
+The results from medical retrieval tracks of previous ImageCLEF 2 campaigns also suggest that the combination of CBIR and text-based image searches provides better results than using the two different approaches individually [10][11][12].
+ImageCLEF
+The results of this pilot investigation were first presented at the CLEF 2002 Workshop and are reported in Jones and Federico (2003).
+None
+Effective "querying agents" can then simulate users towards developing dynamic search systems [10].
+None
+Thus, AI recommendation services offer a self-relevant recommendation to consumers [8,23,34], whereas the non-AI recommendation system may provide irrelevant information to consumers' tastes.
+None
+We performed the same experiment joining the Answer Validation Exercise4 (AVE) 2006 English data set (Peñas et al., 2006) and the Microsoft Research Paraphrase Corpus5 (MSRPC) (Dolan et al.
+None
+Other applications include open government document requests Other applications include open government document requests [3] and systematic review in medicine [14][15][16]32].
+None
+While best retrieval accuracy was achieved using a monolingual evaluation task where the queries were English, our results for the cross language task were the best among those making formal submissions to the CLEF 2007 CL-SR task, showing the lowest decrease relative to monolingual performance when queries were translated from their source language to English [12].
+CLEF;
+The last generation of DLAs offer much promise for passing the bottleneck of image or video analysis through automated species identification The last generation of DLAs offer much promise for passing the bottleneck of image or video analysis through automated species identification [20][21][22][23] .
+None
+(GBIF) Train and test occurrences datasets from the previous year edition [5] were merged to feed the current challenge.
+None
+, , 2020Losada et al., , 2021)).
+None
+Thus, here we are using data provided by Wikipedia, gathered using Mechanical Turk [13].
+None
+The PlantCLEF 2016 dataset The PlantCLEF 2016 dataset [10] consists of observations of plant specimen and provides annotations in terms of organ, species, genus, and family.
+PlantCLEF
+O gerenciamento da reputação digital é uma importante análise que serve para medir como é a reputação de uma empresa em relação a certos grupos de interessados [1].
+None
+(1)[293] Other(8) [62,171,179,[197][198][199]214,294] Hotel Reviews(24) [[93][94][95][96][97][98][99][100]102,103,[127][128][129][130][131][132][133][135][136][137][138][139][140][141][142] https://doi.
+None
+In the last few years, the research community has been looking at automatic check-worthiness predictions In the last few years, the research community has been looking at automatic check-worthiness predictions [15,49], at truthfulness detection/credibility assessments [5,12,24,33,34,39], and at developing fact-checking URL recommender systems and text generation models to mitigate the impact of fake news in social media [51,52,56].
+None
+However, to compare our methods to the ImageCLEF 2010 challenge results, we   4 shows both top performing results of the participants in the ImageCLEF 2010 challenge (see [5] for an overview of the participants, different methods and results) and the performances of our methods.
+ImageCLEF;
+To the best of our knowledge, no existing figure-caption datasets explicitly contain the figures' accompanying documents (Pelka et al., 2021;Hsu et al.
+None
+The formula used to rank the runs in the ImageCLEF 2012 plant identification task The formula used to rank the runs in the ImageCLEF 2012 plant identification task [10] is nearly the same as in 2011 (see [10] for details).
+ImageCLEF;
+Retrieval from an archive of oral history has also been well-studied [15], but lacks the multispeaker, multi-genre aspect of podcasts.
+None
+This motivated the proposal of a new track of Tweet Contextualization at INEX 1 in 2011 [71] which became a CLEF Lab 2 in 2012 [72] and that we fully depict in this paper.
+None
+Table Table II provides an overview of reported results in literature [25].
+None
+, [1,14,24]), it is often still necessary to involve humans in the fact-checking process.
+None
+, the 2012 Informatics for Integrating Biology and the Bedside (i2b2) challenge [14], the 2013/ 2014 CLEF/ShARe challenges [4], and the 2015/2016/ 2017 Clinical TempEval challenges [5][6][7]).
+CLEF;ShARe
+Indeed, our method is among the most successful authorship recognition approaches according to the literature [74].
+None
+WePS-3 conducted a competitive evaluation on person attribute extraction on web pages WePS-3 conducted a competitive evaluation on person attribute extraction on web pages [2].
+None
+Otherwise, most papers on Wikipedia vandalism propose automatic vandalism detection tools: Potthast, Stein, and Gerling (2008) first developed machine learning technology for this purpose, and many of the approaches in existence today have been developed or derived from the results of two shared tasks at PAN 2010and PAN 2011(Potthast, Stein, and Holfeld 2010;Potthast and Holfeld 2011).
+None
+The overall goal of the Social Book Search lab at CLEF (Conference and Labs of the Evaluation Forum) in 2014 The overall goal of the Social Book Search lab at CLEF (Conference and Labs of the Evaluation Forum) in 2014 [1] and 2015 [6] was to investigate how professional metadata (title, authors, .
+CLEF;
+Finally, the fifth edition [17] included unprocessed 3D information in the form point cloud files (PCD format [18]).
+None
+In this respect, the Early Risk Prediction on the Internet (eRisk) [14,15], as well as the Computational Linguistics and Clinical Psychology (CLPsych) [9] workshops were the first to propose benchmarks to bring together many researchers to address the automatic detection of mental disorders in online social media.
+None
+[36,73,52,55,56,69]), the problem is not solved yet.
+None
+2011), flowchart/structure recognition (Piroi et al. 2012(Piroi et al.
+None
+For the visual content of the images multiple features are used, as this was a successfully used technique in ImageCLEFmed in the past For the visual content of the images multiple features are used, as this was a successfully used technique in ImageCLEFmed in the past (Müller, García Seco de Herrera, et al., 2012).
+ImageCLEFmed;
+28 in GeoCLEF 2007 [41] and from 0.
+GeoCLEF;
+All these tasks, as well as the participants' approaches, are described in the corresponding Book Track overviews [23][24][25][26][27][28][29][30].
+None
+Such problems are posed by the Plant Identification task of the LifeCLEF workshop [14,36,37], known as the PlantCLEF challenge, since 2014.
+LifeCLEF;
+The IAP problem in text-based image retrieval task is typically addressed by relevance feedback (RF) approach The IAP problem in text-based image retrieval task is typically addressed by relevance feedback (RF) approach [1].
+None
+, whether the semantics of the original text are preserved) (Hagen et al., 2017).
+None
+Using the ImageCLEF 2004 CasImage medical database and retrieval task, we have demonstrated the effectiveness of our framework that is very promising when compared to the current automatic runs [17].
+ImageCLEF;
+Our training data is a truly parallel corpus of directly simplified sentences (648 sentences for now) coming from scientific abstracts from the DBLP Citation Network Dataset for Computer Science and Google Scholar and PubMed articles on Health and Medicine [7,8,11,10].
+None
+Being orders of magnitude bigger than previously annotated corpora in historical French Being orders of magnitude bigger than previously annotated corpora in historical French (Ehrmann et al. 2020), contemporary French (Sagot, Richard, and Stern 2012) and even English (Pradhan et al.
+None
+The image processing part of the model architecture was identical for both models: a modification of an existing 3D CNN 59 previously applied to assess tuberculosis severity 60 .
+None
+The TREC Filtering Track [31] and CLEF INFILE [6] focused on the multiple filtering tasks including adaptive filtering, where systems aim to select relevant documents from a stream of incoming documents based on a user's profile.
+CLEF;
+Conforme observado na Figura 1, os dados estão apresentados de forma similar ao formato usado na competic ¸ão PAN-2012 Conforme observado na Figura 1, os dados estão apresentados de forma similar ao formato usado na competic ¸ão PAN-2012 [Inches and Crestani, 2012].
+PAN;
+An example living lab is CLEF NEWSREEL 1 An example living lab is CLEF NEWSREEL 1 [13], a campaign-style evaluation lab on news recommendation in realtime which is organized as part of CLEF 2014.
+NEWSREEL; None
+For an overview of the challenge, including the participants, different methods and results, see (Nowak and Huiskes, 2010).
+None
+Recently, more researches have been dedicated to plant identification from images of multi-organs especially with the release of a large dataset of multi-organs images of PlantCLEF since 2013 [6][7][8][9][10].
+PlantCLEF
+The prize winners of the 15th evaluation lab on digital text forensics PAN 2015, which was held in a bid to find the most accurate ways of identifying the gender, age, and psychological traits in accordance with the Five Factor Theory (extroversion, emotional stability/neuroticism, agreeableness, conscientiousness, openness to experience) of Twitter users (Rangel et al., 2015) applied two types of features.
+None
+In this study, we use the datasets provided by eRisk 2019 and 2020 for the task "Measuring the Severity of the Signs of Depression" In this study, we use the datasets provided by eRisk 2019 and 2020 for the task "Measuring the Severity of the Signs of Depression" [5,6].
+None
+PlantCLEF2022 PlantCLEF2022 (Goëau et al., 2022) is an extensive dataset comprising over 4 million images and includes a wide range of 80,000 plant species.
+None
+This is best exemplified by the test collection methodology employed by large-scale international efforts, such as TREC 10) , CLEF 11) , NTCIR 12) and in the multimedia field, efforts such as ImageCLEF 13) or MediaEval 14) .
+ImageCLEF;
+A number of solutions have arisen to address the amount of time spent screening documents, including: screening prioritisation (which seeks to re-rank the set of retrieved documents to show more relevant documents first, thus starting the full-text screening earlier), and stopping estimation (which seeks to predict at what point continuing to screen will no longer contribute gain) A number of solutions have arisen to address the amount of time spent screening documents, including: screening prioritisation (which seeks to re-rank the set of retrieved documents to show more relevant documents first, thus starting the full-text screening earlier), and stopping estimation (which seeks to predict at what point continuing to screen will no longer contribute gain) [25,26,40].
+None
+Erisk@CLEF Erisk@CLEF (Losada et al., 2017) served as a root for this task, which aims to detect depression from the social media data.
+CLEF
+The CLEF LL4IR track [11] featured product search and web search as use cases.
+None
+Two large-scale (ImageCLEF) studies complementing image features with textual information extracted from articles have been proposed recently Two large-scale (ImageCLEF) studies complementing image features with textual information extracted from articles have been proposed recently [58].
+ImageCLEF
+Online reputation management: Reputation management in social media Online reputation management: Reputation management in social media [76] has been proposed in RepLab competitive evaluation campaign for Online Reputation Management Systems [12,11].
+RepLab
+The same features have been used in our system that won the challenge [5]; for more details see [28].
+None
+Para avaliar experimentalmente a proposta, ela foi experi-mentada usando o conjunto de publicações do desafio do RepLab 2014 [1], que consiste de publicações no Twitter extraídas em 2012 durante o período de 1 o de Junho até 31 de Dezembro, com cerca de 48 mil tweets rotulados em 8 assuntos.
+None
+Previous research on detecting cyberpaedophilia online, including the efforts of the first international sexual predator identification competition (PAN Previous research on detecting cyberpaedophilia online, including the efforts of the first international sexual predator identification competition (PAN '12) [11], has focused on the automatic identification of predators in chat-room logs.
+None
+In all experiments, we used the training dataset from the CLEF CL-SR 2007 task [18].
+CLEF;
+For instance in the LifeCLEF competition, which attempts to classify plants using images of different parts such as the leaves, the fruit, or the stem, the best performing methods all employed deep learning [17], [18], [19], [20].
+LifeCLEF;
+A summary of recent work on algorithms for plant identification and as well as detailed evaluations are described in the CLEF 2011 plant images classification task [4].
+CLEF;
+Applications of the annotated IAPR-TC12 BenchmarkThe IAPR-TC12 collection is an established image retrieval benchmark that has been used for the evaluation of a wide variety of CBIR and TBIR methodsApplications of the annotated IAPR-TC12 BenchmarkThe IAPR-TC12 collection is an established image retrieval benchmark that has been used for the evaluation of a wide variety of CBIR and TBIR methods[16,17].
+IAPR-TC12;
